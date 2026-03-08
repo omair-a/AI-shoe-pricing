@@ -1,0 +1,201 @@
+product_id,brand,product_name,category,date,competitor_price,our_cost,min_margin,our_current_price,size,color,material,store,store_id
+1,Adidas,Adidas Court Vision,Basketball,11/25/2025,100.06,53.96,0.33,90.91,6,Green,Leather,DSW,Store_15
+2,Vans,Vans Heritage Work Boot,Boots,11/10/2025,147.22,90.38,0.24,124.23,8,Brown,Synthetic,Foot Locker,Store_82
+3,Reebok,Reebok Court Dominator,Basketball,12/7/2025,160.54,88.43,0.31,134.84,8.5,Green,Leather,Academy Sports,Store_32
+4,Brooks,Brooks Court Vision,Basketball,2/25/2026,96.01,51.54,0.25,85.68,10.5,Red,Mesh,Academy Sports,Store_32
+5,Adidas,Adidas Cross Trainer X,Training,11/11/2025,84.3,44.81,0.28,71.57,9.5,Green,Synthetic,Academy Sports,Store_32
+6,Adidas,Adidas Chill Step,Casual,12/9/2025,100.2,54.63,0.33,91.96,9.5,Navy,Leather,Dick's Sporting Goods,Store_29
+7,Nike,Nike Cross Trainer X,Training,11/24/2025,109.7,66.53,0.34,118.67,8,Blue,Synthetic,DSW,Store_15
+8,ASICS,ASICS Tough Terrain,Boots,2/21/2026,132.92,80.03,0.33,126.08,7,Gray,Suede,Amazon,Store_95
+9,Reebok,Reebok Gym Pro,Training,10/29/2025,59.79,36.11,0.24,56.47,6.5,Tan,Synthetic,Foot Locker,Store_82
+10,Brooks,Brooks Classic Lace-Up,Boots,10/30/2025,148.61,89.31,0.32,138.33,8,Brown,Synthetic,Foot Locker,Store_82
+11,Adidas,Adidas Peak Walker,Hiking,2/6/2026,137.64,83.1,0.32,128.77,6,Gray,Synthetic,Zappos,Store_36
+12,Vans,Vans Gym Pro,Training,12/22/2025,84.57,49.54,0.21,70.78,10,Blue,Mesh,Foot Locker,Store_82
+13,Skechers,Skechers Cross Trainer X,Training,2/2/2026,82.49,62.64,0.33,92.27,6.5,Navy,Knit,DSW,Store_15
+14,ASICS,ASICS Daily Comfort,Casual,12/19/2025,61.7,33.96,0.32,52.97,7.5,Tan,Synthetic,Amazon,Store_95
+15,ASICS,ASICS Hoop Legend,Basketball,2/28/2026,117.03,73.24,0.31,106.61,8.5,Navy,Leather,Foot Locker,Store_82
+16,Nike,Nike Cross Trainer X,Training,12/11/2025,107.23,56.76,0.28,91.07,6.5,Black,Synthetic,Amazon,Store_95
+17,Converse,Converse Heritage Runner,Lifestyle,10/25/2025,82.36,51.36,0.24,71.47,7.5,Brown,Knit,DSW,Store_15
+18,Nike,Nike Court Dominator,Basketball,12/3/2025,75.66,51.5,0.33,82.76,8.5,Green,Mesh,DSW,Store_15
+19,ASICS,ASICS Cross Trainer X,Training,2/16/2026,124.95,63.44,0.37,108.93,6.5,Brown,Knit,Foot Locker,Store_82
+20,New Balance,New Balance Tough Terrain,Boots,10/16/2025,100.4,55.7,0.22,85.5,13,Brown,Leather,Dick's Sporting Goods,Store_29
+21,ASICS,ASICS Peak Walker,Hiking,11/9/2025,88.72,54.49,0.26,80.11,11.5,Tan,Gore-Tex,Kohl's,Store_18
+22,Nike,Nike Sun Slide,Sandals,10/15/2025,58.49,34.1,0.26,55.27,9.5,Black,Synthetic,Nike Store,Store_04
+23,Puma,Puma All-Weather Boot,Boots,10/21/2025,129.37,72.25,0.29,109.9,10.5,Multicolor,Leather,Foot Locker,Store_82
+24,Puma,Puma Beach Cruiser,Sandals,1/26/2026,27.25,19.27,0.31,26.97,7,Red,Leather,Zappos,Store_36
+25,Converse,Converse Court Dominator,Basketball,11/3/2025,141.93,96,0.31,144.92,10,Tan,Leather,Zappos,Store_36
+26,New Balance,New Balance City Stepper,Lifestyle,10/27/2025,80.96,62.56,0.24,91.23,11,Red,Canvas,Zappos,Store_36
+27,Vans,Vans Daily Comfort,Casual,11/22/2025,60.58,44.06,0.31,64.59,11.5,Red,Leather,Academy Sports,Store_32
+28,Nike,Nike Bounce Pro,Basketball,11/3/2025,146.14,78.23,0.29,140.1,6,Red,Leather,Academy Sports,Store_32
+29,Brooks,Brooks Air Runner Pro,Running,1/3/2026,96.88,67.04,0.26,101.14,7,White,Synthetic,Foot Locker,Store_82
+30,Nike,Nike Beach Cruiser,Sandals,2/21/2026,51.28,32.34,0.31,56.72,6.5,Navy,Synthetic,Academy Sports,Store_32
+31,Puma,Puma Urban Walker,Casual,1/14/2026,72.53,48.08,0.33,76.88,7,Green,Canvas,Academy Sports,Store_32
+32,Adidas,Adidas All-Weather Boot,Boots,12/29/2025,88.24,64.84,0.35,102.81,7.5,Brown,Leather,Kohl's,Store_18
+33,Puma,Puma Urban Chelsea,Boots,12/29/2025,147.98,86.7,0.26,142.61,12,Red,Leather,Zappos,Store_36
+34,Nike,Nike Air Slam,Basketball,10/28/2025,137.14,75.79,0.3,136.77,8,Gray,Mesh,Foot Locker,Store_82
+35,Vans,Vans Bounce Pro,Basketball,1/20/2026,65.15,40.1,0.32,59.13,8,Multicolor,Leather,Foot Locker,Store_82
+36,Puma,Puma Arch Support Plus,Sandals,11/1/2025,41.48,28.55,0.25,41.78,8.5,White,Synthetic,Academy Sports,Store_32
+37,Brooks,Brooks Ridge Runner,Hiking,11/14/2025,105,75.78,0.28,123.51,9,Gray,Leather,Dick's Sporting Goods,Store_29
+38,Skechers,Skechers Iron Sole,Training,1/28/2026,78.89,47.67,0.29,69.95,11,Multicolor,Knit,Academy Sports,Store_32
+39,New Balance,New Balance Air Slam,Basketball,10/24/2025,133.54,89.11,0.33,143.8,11,Tan,Mesh,Academy Sports,Store_32
+40,Puma,Puma Street Classic,Casual,1/25/2026,54.07,34.51,0.29,49.44,9.5,Black,Leather,DSW,Store_15
+41,ASICS,ASICS Heritage Work Boot,Boots,10/28/2025,175.88,95.6,0.26,160.83,11.5,Gray,Synthetic,Foot Locker,Store_82
+42,ASICS,ASICS Pace Setter,Running,1/27/2026,137.64,71.72,0.37,116.4,9.5,Navy,Mesh,Nike Store,Store_04
+43,ASICS,ASICS Classic Lace-Up,Boots,1/24/2026,113.06,61.85,0.26,101.12,11.5,Brown,Leather,Kohl's,Store_18
+44,Vans,Vans Heritage Runner,Lifestyle,11/30/2025,47.54,35.87,0.24,52.91,6.5,Red,Knit,Zappos,Store_36
+45,Puma,Puma Heritage Work Boot,Boots,12/24/2025,114.92,80.27,0.26,115.26,9,Navy,Leather,Dick's Sporting Goods,Store_29
+46,Converse,Converse Pace Setter,Running,12/16/2025,116.43,76.44,0.3,116.82,6,Green,Knit,Academy Sports,Store_32
+47,Vans,Vans Iron Sole,Training,10/8/2025,77.52,45.55,0.29,70.25,9,Navy,Synthetic,Kohl's,Store_18
+48,ASICS,ASICS Chill Step,Casual,10/22/2025,58.44,42.5,0.25,67.36,9,Tan,Canvas,Foot Locker,Store_82
+49,Brooks,Brooks Beach Cruiser,Sandals,12/11/2025,39.77,29.3,0.36,45.26,8.5,Brown,Leather,Dick's Sporting Goods,Store_29
+50,Nike,Nike Ultra Stride,Running,10/8/2025,123.73,87.23,0.28,136.97,6.5,Navy,Synthetic,Foot Locker,Store_82
+51,New Balance,New Balance Retro Classic,Lifestyle,1/3/2026,46.14,31.71,0.31,51.84,9.5,Multicolor,Leather,Zappos,Store_36
+52,New Balance,New Balance Trail Blazer,Hiking,1/10/2026,167.11,92.07,0.25,146.5,8,Multicolor,Leather,Dick's Sporting Goods,Store_29
+53,Puma,Puma Air Slam,Basketball,12/28/2025,108.35,71.96,0.3,100.64,12,Multicolor,Leather,Foot Locker,Store_82
+54,Nike,Nike Tough Terrain,Boots,11/9/2025,128.76,73.31,0.36,136.32,8.5,White,Suede,Kohl's,Store_18
+55,Vans,Vans Modern Icon,Lifestyle,10/23/2025,58.06,36.16,0.26,55.32,8.5,Green,Suede,Amazon,Store_95
+56,Brooks,Brooks Sun Slide,Sandals,11/24/2025,33.14,20.16,0.28,31.3,7,Brown,Leather,Kohl's,Store_18
+57,Skechers,Skechers Pace Setter,Running,2/3/2026,105.03,65.53,0.23,95.56,7.5,Navy,Mesh,Dick's Sporting Goods,Store_29
+58,ASICS,ASICS Air Runner Pro,Running,12/18/2025,111.8,71.52,0.28,115.22,9,Red,Mesh,Amazon,Store_95
+59,Vans,Vans Summer Stride,Sandals,11/29/2025,20.94,14.78,0.23,20.18,8,Brown,Leather,Zappos,Store_36
+60,New Balance,New Balance Gym Pro,Training,10/26/2025,92.38,63.31,0.26,96.65,11.5,Brown,Synthetic,Zappos,Store_36
+61,Vans,Vans Daily Comfort,Casual,11/2/2025,49.21,42.33,0.3,57.6,10,Black,Canvas,Zappos,Store_36
+62,Skechers,Skechers Modern Icon,Lifestyle,12/4/2025,96.05,62.64,0.26,97,7,Brown,Suede,Foot Locker,Store_82
+63,Adidas,Adidas Speed Boost Elite,Running,12/3/2025,79.43,41.51,0.35,70.49,8,Gray,Synthetic,DSW,Store_15
+64,Puma,Puma Tough Terrain,Boots,12/18/2025,118.86,81.96,0.21,134.35,13,Brown,Suede,Dick's Sporting Goods,Store_29
+65,Puma,Puma PowerFit,Training,2/19/2026,52.42,33,0.2,49.55,7.5,White,Mesh,Nike Store,Store_04
+66,Skechers,Skechers Speed Boost Elite,Running,10/19/2025,119.81,72.81,0.32,112.1,8,Red,Synthetic,Kohl's,Store_18
+67,Puma,Puma All-Weather Boot,Boots,12/8/2025,134.71,98.73,0.21,140.67,11,Tan,Leather,Nike Store,Store_04
+68,Converse,Converse Peak Walker,Hiking,1/12/2026,114.27,92.13,0.26,130.13,11.5,White,Synthetic,Zappos,Store_36
+69,Nike,Nike Urban Chelsea,Boots,11/28/2025,221.29,107.52,0.38,187.09,6,Multicolor,Suede,DSW,Store_15
+70,Skechers,Skechers Speed Boost Elite,Running,12/11/2025,68.95,44.98,0.28,67.46,11,Brown,Synthetic,Kohl's,Store_18
+71,Adidas,Adidas Street Edge,Lifestyle,11/11/2025,72.31,38.19,0.34,61.24,8.5,Green,Suede,DSW,Store_15
+72,Vans,Vans FlexRun 2.0,Running,10/30/2025,155.15,88.36,0.25,129.74,8,White,Knit,Academy Sports,Store_32
+73,Vans,Vans Modern Icon,Lifestyle,2/5/2026,72.31,50.02,0.3,69.38,10,Black,Leather,Academy Sports,Store_32
+74,Skechers,Skechers Modern Icon,Lifestyle,11/10/2025,50.07,37.43,0.2,53.92,11,White,Canvas,Amazon,Store_95
+75,Adidas,Adidas Retro Classic,Lifestyle,2/8/2026,89.76,53.22,0.3,88.41,11.5,Gray,Knit,Zappos,Store_36
+76,ASICS,ASICS Weekender,Casual,12/10/2025,82.09,47.04,0.35,72.92,13,Navy,Leather,DSW,Store_15
+77,Skechers,Skechers Ultra Stride,Running,11/8/2025,94.52,59.56,0.26,84.62,10.5,Red,Synthetic,Kohl's,Store_18
+78,Brooks,Brooks Street Edge,Lifestyle,11/29/2025,94.07,59.24,0.3,92.63,10.5,Navy,Leather,Dick's Sporting Goods,Store_29
+79,Brooks,Brooks Heritage Work Boot,Boots,10/26/2025,166.94,101.82,0.3,165.3,7,Brown,Leather,Academy Sports,Store_32
+80,New Balance,New Balance Heritage Work Boot,Boots,12/26/2025,119.51,85.51,0.28,123.85,12,White,Suede,Zappos,Store_36
+81,Vans,Vans Urban Chelsea,Boots,11/30/2025,152.44,86.03,0.32,137.16,6,Brown,Synthetic,DSW,Store_15
+82,Brooks,Brooks Court Dominator,Basketball,10/8/2025,65.31,42.76,0.35,66.56,11.5,Brown,Leather,Zappos,Store_36
+83,New Balance,New Balance Train Hard,Training,11/13/2025,61.76,37,0.31,56.71,11,Green,Knit,Nike Store,Store_04
+84,ASICS,ASICS Urban Walker,Casual,10/3/2025,82.27,51.46,0.3,79.01,9.5,Brown,Suede,Zappos,Store_36
+85,Adidas,Adidas Street Edge,Lifestyle,12/4/2025,90.2,43.27,0.29,78.53,11,Multicolor,Suede,Dick's Sporting Goods,Store_29
+86,Adidas,Adidas Iron Sole,Training,12/15/2025,43.08,30.88,0.36,50.51,10.5,Multicolor,Synthetic,Zappos,Store_36
+87,Nike,Nike Street Edge,Lifestyle,12/4/2025,105.21,52.11,0.36,92.01,7.5,Navy,Suede,Amazon,Store_95
+88,Adidas,Adidas Ultra Stride,Running,11/3/2025,63.37,39.96,0.29,69.53,10.5,Brown,Mesh,Academy Sports,Store_32
+89,New Balance,New Balance Comfort Float,Sandals,12/5/2025,53.38,33.02,0.35,56,13,Tan,Leather,Nike Store,Store_04
+90,Reebok,Reebok Bounce Pro,Basketball,1/10/2026,163.35,98.04,0.32,144.98,12,White,Leather,Amazon,Store_95
+91,Nike,Nike Ridge Runner,Hiking,2/27/2026,116.71,64.05,0.35,107.45,8.5,White,Synthetic,Zappos,Store_36
+92,ASICS,ASICS Pace Setter,Running,10/17/2025,124.56,69.95,0.29,115.63,10.5,Tan,Knit,Amazon,Store_95
+93,Adidas,Adidas Street Classic,Casual,10/25/2025,45.17,28.22,0.32,46.1,9.5,Black,Suede,DSW,Store_15
+94,Vans,Vans Classic Lace-Up,Boots,2/3/2026,130.58,85.02,0.32,119.62,11,Gray,Suede,DSW,Store_15
+95,Puma,Puma Modern Icon,Lifestyle,2/17/2026,80.72,61.07,0.3,85.28,6.5,Navy,Suede,Academy Sports,Store_32
+96,Adidas,Adidas Retro Classic,Lifestyle,12/2/2025,116.23,64.55,0.35,101.92,6,Navy,Canvas,Academy Sports,Store_32
+97,Vans,Vans Train Hard,Training,10/1/2025,67.96,41.09,0.33,65.4,8.5,Navy,Mesh,Nike Store,Store_04
+98,New Balance,New Balance Court Dominator,Basketball,2/28/2026,95,59.43,0.24,85.62,8.5,Gray,Leather,Amazon,Store_95
+99,Vans,Vans Court Dominator,Basketball,2/9/2026,112.12,75.62,0.26,105.25,12,Brown,Synthetic,Academy Sports,Store_32
+100,Vans,Vans Peak Walker,Hiking,1/18/2026,109.12,79.3,0.26,124.61,9.5,Black,Leather,Dick's Sporting Goods,Store_29
+101,Adidas,Adidas Comfort Float,Sandals,2/27/2026,46.22,24.61,0.29,44.63,7,Gray,Rubber,Zappos,Store_36
+102,ASICS,ASICS All-Weather Boot,Boots,1/19/2026,116.25,74.35,0.26,115.24,11,White,Synthetic,Amazon,Store_95
+103,Brooks,Brooks Air Slam,Basketball,1/4/2026,137.92,97.22,0.34,156.39,11,Green,Synthetic,Zappos,Store_36
+104,Adidas,Adidas Bounce Pro,Basketball,11/3/2025,119.35,73.38,0.33,123.63,11.5,White,Mesh,Academy Sports,Store_32
+105,Adidas,Adidas Urban Chelsea,Boots,12/19/2025,115.87,67.86,0.33,107.3,6,Green,Synthetic,Zappos,Store_36
+106,Puma,Puma Air Slam,Basketball,2/24/2026,91.77,53.57,0.26,82.04,6.5,Tan,Synthetic,Zappos,Store_36
+107,Converse,Converse Pace Setter,Running,12/19/2025,102.86,85.68,0.24,114.27,7,Red,Mesh,Zappos,Store_36
+108,Brooks,Brooks Hoop Legend,Basketball,1/5/2026,113.46,65.19,0.29,102.91,11.5,Black,Leather,Amazon,Store_95
+109,Converse,Converse Court Dominator,Basketball,10/21/2025,79.82,56.33,0.28,79.45,12,Gray,Leather,Foot Locker,Store_82
+110,Skechers,Skechers Train Hard,Training,12/12/2025,80.53,57.13,0.28,84.07,9,White,Synthetic,DSW,Store_15
+111,Puma,Puma Classic Lace-Up,Boots,11/24/2025,123.41,94.88,0.31,138.35,7.5,Black,Leather,Zappos,Store_36
+112,ASICS,ASICS Heritage Work Boot,Boots,2/6/2026,125.01,81.32,0.32,126.4,10,Gray,Suede,Amazon,Store_95
+113,Nike,Nike All-Weather Boot,Boots,2/25/2026,122.06,72.9,0.31,128.3,13,Brown,Leather,Academy Sports,Store_32
+114,Brooks,Brooks Ultra Stride,Running,10/23/2025,93.35,59.02,0.25,94.28,9.5,Gray,Synthetic,Academy Sports,Store_32
+115,Adidas,Adidas Urban Chelsea,Boots,10/20/2025,152.33,78.18,0.26,130.52,8.5,Blue,Leather,Nike Store,Store_04
+116,Reebok,Reebok Beach Cruiser,Sandals,11/20/2025,22.21,15.99,0.24,25.34,7,Navy,Rubber,Zappos,Store_36
+117,ASICS,ASICS City Stepper,Lifestyle,12/20/2025,46.86,31.04,0.24,49.02,11,Multicolor,Knit,Academy Sports,Store_32
+118,Skechers,Skechers Ultra Stride,Running,1/24/2026,56.18,37.07,0.25,52.23,8,Tan,Mesh,Kohl's,Store_18
+119,Adidas,Adidas Tough Terrain,Boots,1/24/2026,173.95,104.09,0.32,163.83,12,Multicolor,Synthetic,Foot Locker,Store_82
+120,Vans,Vans Street Classic,Casual,10/22/2025,52.84,37.66,0.22,52.67,12,Brown,Canvas,Academy Sports,Store_32
+121,ASICS,ASICS Daily Comfort,Casual,12/26/2025,69.11,43.76,0.24,71.46,9,Blue,Suede,Dick's Sporting Goods,Store_29
+122,Reebok,Reebok Court Vision,Basketball,12/25/2025,70.03,44.89,0.31,73.06,8,Green,Synthetic,Nike Store,Store_04
+123,Brooks,Brooks Chill Step,Casual,12/24/2025,91.9,48.46,0.33,82.9,10,White,Suede,Dick's Sporting Goods,Store_29
+124,Vans,Vans Bounce Pro,Basketball,12/19/2025,81.98,50.82,0.23,80.36,6,Tan,Synthetic,Academy Sports,Store_32
+125,Puma,Puma Urban Walker,Casual,2/7/2026,65.64,46.98,0.33,76.04,13,White,Suede,DSW,Store_15
+126,Reebok,Reebok Chill Step,Casual,11/12/2025,73.69,45.24,0.23,66.88,7,Green,Leather,Nike Store,Store_04
+127,ASICS,ASICS Peak Walker,Hiking,1/29/2026,155.89,90.2,0.26,148.52,7.5,Navy,Gore-Tex,Zappos,Store_36
+128,ASICS,ASICS Street Edge,Lifestyle,11/5/2025,93.38,59.92,0.24,95.29,7,Green,Knit,Amazon,Store_95
+129,Adidas,Adidas Air Slam,Basketball,2/9/2026,81.52,48.84,0.31,87.87,8,White,Leather,Kohl's,Store_18
+130,ASICS,ASICS Sun Slide,Sandals,11/30/2025,30.46,20.88,0.24,31.68,9,Green,Rubber,Academy Sports,Store_32
+131,Adidas,Adidas Beach Cruiser,Sandals,11/5/2025,58.46,29.45,0.31,50.09,8,Gray,Rubber,Kohl's,Store_18
+132,Nike,Nike Summit Grip,Hiking,10/29/2025,125.27,83.81,0.29,134.2,11.5,Gray,Gore-Tex,Dick's Sporting Goods,Store_29
+133,Converse,Converse Retro Classic,Lifestyle,2/9/2026,55.58,48,0.29,65.35,10.5,White,Knit,Foot Locker,Store_82
+134,Reebok,Reebok Train Hard,Training,2/12/2026,107.9,68.99,0.23,105.01,11,Green,Mesh,DSW,Store_15
+135,Vans,Vans FlexRun 2.0,Running,1/4/2026,73.16,48.95,0.2,75.37,11,Brown,Mesh,Dick's Sporting Goods,Store_29
+136,Adidas,Adidas Beach Cruiser,Sandals,11/14/2025,57.25,31.1,0.34,56.27,10,Black,Leather,Academy Sports,Store_32
+137,New Balance,New Balance Street Classic,Casual,10/12/2025,69.22,47.69,0.34,72.21,8,Brown,Canvas,Amazon,Store_95
+138,Brooks,Brooks Street Edge,Lifestyle,10/13/2025,88,59.63,0.29,89.91,8,Black,Leather,Academy Sports,Store_32
+139,Brooks,Brooks Modern Icon,Lifestyle,1/3/2026,116.54,61.97,0.31,105.52,9.5,Blue,Leather,Kohl's,Store_18
+140,Adidas,Adidas Classic Lace-Up,Boots,10/27/2025,85.69,50.2,0.34,80.77,8,Gray,Synthetic,Academy Sports,Store_32
+141,Brooks,Brooks Weekender,Casual,1/20/2026,45.28,29.61,0.38,51.67,6,Blue,Synthetic,Academy Sports,Store_32
+142,Brooks,Brooks Comfort Float,Sandals,10/9/2025,24.13,14.9,0.27,24.7,7,Gray,Rubber,Kohl's,Store_18
+143,Converse,Converse Pace Setter,Running,1/4/2026,76.9,59.42,0.21,78.59,9.5,Gray,Synthetic,Academy Sports,Store_32
+144,Reebok,Reebok Summit Grip,Hiking,2/5/2026,112.21,70.89,0.34,100.08,11.5,White,Leather,Nike Store,Store_04
+145,ASICS,ASICS Train Hard,Training,11/1/2025,58.55,35.43,0.24,53.24,9.5,Red,Knit,Amazon,Store_95
+146,Adidas,Adidas Summer Stride,Sandals,12/16/2025,60.79,31.58,0.34,56.64,10,White,Synthetic,Zappos,Store_36
+147,Reebok,Reebok Cross Trainer X,Training,10/7/2025,79.93,44.44,0.29,66.94,7.5,Navy,Mesh,Kohl's,Store_18
+148,New Balance,New Balance Court Dominator,Basketball,2/12/2026,91.67,64.65,0.28,102.56,11.5,Red,Synthetic,Kohl's,Store_18
+149,Reebok,Reebok Bounce Pro,Basketball,11/2/2025,131.49,92.68,0.32,143.91,10,Brown,Mesh,Academy Sports,Store_32
+150,New Balance,New Balance Classic Lace-Up,Boots,12/17/2025,87.84,55.7,0.27,90.45,10,Black,Leather,Nike Store,Store_04
+151,Vans,Vans Trail Blazer,Hiking,11/2/2025,111.28,76.25,0.28,103.58,11,Red,Leather,Zappos,Store_36
+152,Converse,Converse Urban Walker,Casual,10/8/2025,31.92,22.84,0.31,33.86,13,Multicolor,Suede,Foot Locker,Store_82
+153,Puma,Puma Classic Lace-Up,Boots,12/17/2025,114.06,76.39,0.32,119.55,11,Black,Suede,Zappos,Store_36
+154,Adidas,Adidas Speed Boost Elite,Running,11/22/2025,91.63,53.71,0.27,95.27,9.5,Brown,Knit,Kohl's,Store_18
+155,Reebok,Reebok Heritage Work Boot,Boots,12/21/2025,81.97,60.71,0.24,91.15,10,Blue,Synthetic,DSW,Store_15
+156,Nike,Nike Peak Walker,Hiking,12/23/2025,134.72,91.69,0.36,148.73,7.5,Multicolor,Synthetic,Nike Store,Store_04
+157,Vans,Vans Modern Icon,Lifestyle,1/9/2026,61.2,45.22,0.33,62.86,6,Red,Knit,DSW,Store_15
+158,Nike,Nike Peak Walker,Hiking,12/13/2025,141.16,71.83,0.38,121.81,11,Multicolor,Gore-Tex,Kohl's,Store_18
+159,Reebok,Reebok Urban Chelsea,Boots,1/1/2026,137.18,80.96,0.23,122.75,6,Black,Suede,Amazon,Store_95
+160,Skechers,Skechers Hoop Legend,Basketball,2/20/2026,137.28,96.34,0.3,133.52,8.5,White,Synthetic,Academy Sports,Store_32
+161,Vans,Vans Air Runner Pro,Running,1/30/2026,89.54,63.56,0.22,99.61,11.5,Black,Mesh,Academy Sports,Store_32
+162,Converse,Converse Beach Cruiser,Sandals,12/26/2025,34.98,23.67,0.26,33.41,11.5,Green,Synthetic,Zappos,Store_36
+163,ASICS,ASICS Ultra Stride,Running,2/27/2026,94.56,51.92,0.36,88.35,6.5,Blue,Synthetic,Dick's Sporting Goods,Store_29
+164,Converse,Converse Street Edge,Lifestyle,2/27/2026,72.86,44.22,0.26,64.99,11.5,Multicolor,Leather,Foot Locker,Store_82
+165,Brooks,Brooks Urban Walker,Casual,1/21/2026,51.43,30.98,0.26,51.76,7.5,Black,Canvas,Foot Locker,Store_82
+166,Converse,Converse Retro Classic,Lifestyle,1/31/2026,71.65,46.02,0.24,61.28,10,Gray,Leather,Academy Sports,Store_32
+167,Reebok,Reebok Summer Stride,Sandals,12/11/2025,38.93,24.84,0.25,40.8,7.5,Multicolor,Leather,Amazon,Store_95
+168,Skechers,Skechers Iron Sole,Training,12/13/2025,59.62,34.87,0.29,49.97,8.5,Blue,Synthetic,Zappos,Store_36
+169,Reebok,Reebok Daily Comfort,Casual,12/28/2025,76.57,52.34,0.31,82.79,11.5,Black,Suede,DSW,Store_15
+170,Vans,Vans Ridge Runner,Hiking,12/2/2025,61.68,47.54,0.32,66.22,6.5,Red,Leather,Amazon,Store_95
+171,Adidas,Adidas Urban Chelsea,Boots,10/2/2025,181.75,107.69,0.38,168.52,11,Brown,Leather,Nike Store,Store_04
+172,ASICS,ASICS Heritage Runner,Lifestyle,10/23/2025,97.55,51.09,0.26,85,8,Red,Suede,Foot Locker,Store_82
+173,Nike,Nike Weekender,Casual,2/4/2026,46.2,26.52,0.36,48.56,13,Gray,Canvas,Dick's Sporting Goods,Store_29
+174,Nike,Nike Ultra Stride,Running,12/12/2025,120.13,59.99,0.35,103.45,6.5,Multicolor,Synthetic,Academy Sports,Store_32
+175,New Balance,New Balance Street Edge,Lifestyle,1/26/2026,70.5,50.93,0.32,72.83,8.5,Navy,Canvas,Nike Store,Store_04
+176,Skechers,Skechers Gym Pro,Training,2/9/2026,69.94,43.12,0.25,58.6,9,Multicolor,Knit,Dick's Sporting Goods,Store_29
+177,ASICS,ASICS Beach Cruiser,Sandals,1/23/2026,49.82,29.34,0.36,45.17,9,Black,Leather,Amazon,Store_95
+178,Nike,Nike Terrain Master,Hiking,1/28/2026,120.58,60.34,0.31,103.65,11,Navy,Leather,DSW,Store_15
+179,Skechers,Skechers Air Slam,Basketball,11/4/2025,107.26,68.69,0.26,109.36,7.5,Blue,Mesh,Amazon,Store_95
+180,Vans,Vans City Stepper,Lifestyle,2/12/2026,60.82,42.87,0.29,58.06,11,Navy,Leather,DSW,Store_15
+181,Nike,Nike Train Hard,Training,2/11/2026,86.8,47.67,0.35,85.01,7,Tan,Mesh,Academy Sports,Store_32
+182,Vans,Vans Retro Classic,Lifestyle,1/25/2026,68.77,47.56,0.27,71.8,10,Brown,Leather,Dick's Sporting Goods,Store_29
+183,Nike,Nike Urban Chelsea,Boots,10/12/2025,109.29,72.54,0.36,125.46,7.5,Black,Synthetic,DSW,Store_15
+184,Adidas,Adidas Retro Classic,Lifestyle,1/16/2026,77.31,39.98,0.37,66.02,7,Red,Knit,Nike Store,Store_04
+185,Brooks,Brooks All-Weather Boot,Boots,10/31/2025,101.57,56.6,0.32,91.94,11,Tan,Leather,Academy Sports,Store_32
+186,Puma,Puma Air Runner Pro,Running,2/14/2026,75.99,55.86,0.23,84.03,11,Red,Knit,Dick's Sporting Goods,Store_29
+187,Puma,Puma Court Dominator,Basketball,12/1/2025,77.04,52.36,0.22,72.73,12,Green,Mesh,Foot Locker,Store_82
+188,Nike,Nike Cross Trainer X,Training,10/15/2025,68.2,35.61,0.4,58.25,7.5,Green,Synthetic,Amazon,Store_95
+189,Converse,Converse Comfort Float,Sandals,11/30/2025,25.55,18.94,0.22,27.55,13,Multicolor,Synthetic,Academy Sports,Store_32
+190,Skechers,Skechers Trail Blazer,Hiking,1/18/2026,111.44,72.79,0.21,103.65,11.5,Tan,Gore-Tex,Nike Store,Store_04
+191,Brooks,Brooks Arch Support Plus,Sandals,11/17/2025,48.13,29.35,0.31,50.38,8,Green,Rubber,Dick's Sporting Goods,Store_29
+192,New Balance,New Balance Retro Classic,Lifestyle,1/8/2026,65.39,34.71,0.25,55.76,9,Tan,Knit,Nike Store,Store_04
+193,Reebok,Reebok Court Vision,Basketball,10/11/2025,161.72,92.42,0.24,146.55,8,Navy,Leather,Dick's Sporting Goods,Store_29
+194,Vans,Vans Iron Sole,Training,11/24/2025,110.51,67.49,0.33,92.1,8,Navy,Synthetic,Foot Locker,Store_82
+195,ASICS,ASICS Train Hard,Training,12/12/2025,66.26,45.23,0.3,70.37,7.5,Navy,Synthetic,Academy Sports,Store_32
+196,Vans,Vans Modern Icon,Lifestyle,11/22/2025,54.7,39.83,0.25,58.98,12,White,Knit,Academy Sports,Store_32
+197,New Balance,New Balance Ultra Stride,Running,12/15/2025,75.88,43.38,0.27,66.46,10.5,Tan,Synthetic,Dick's Sporting Goods,Store_29
+198,ASICS,ASICS Summer Stride,Sandals,1/26/2026,26.26,15.87,0.34,23.83,11,Brown,Synthetic,Kohl's,Store_18
+199,ASICS,ASICS Chill Step,Casual,10/13/2025,73.7,46.75,0.29,79.16,13,Black,Canvas,DSW,Store_15
+200,New Balance,New Balance Speed Boost Elite,Running,2/1/2026,111.52,71.26,0.22,112.2,8.5,Tan,Knit,Foot Locker,Store_82
