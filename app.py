@@ -401,7 +401,7 @@ with tab1:
     display_df = display_df.sort_values("Adjustment $", key=abs, ascending=False)
 
     styled = display_df.style\
-        .applymap(style_tag, subset=["Action"])\
+        .map(style_tag, subset=["Action"])\
         .format({
             "Current Price":    "${:.2f}",
             "Competitor Price": "${:.2f}",
