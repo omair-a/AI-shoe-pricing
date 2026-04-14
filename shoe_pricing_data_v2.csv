@@ -1,0 +1,501 @@
+sku,brand,product_name,category,gender,season,region,date,competitor_price,our_cost,min_margin,our_current_price,size,color,material,store,store_id
+AD-RUN-Y-001,Adidas,Adidas Speed Boost Elite (Youth),Running,Youth,Summer,South,8/4/2024,50.84,39.81,0.27,47.39,4Y,Gray,Synthetic,DSW,Store_76
+VN-TRN-U-002,Vans,Vans Iron Sole (Unisex),Training,Unisex,Winter,South,2/16/2025,46.32,38.39,0.25,49.82,12,Multicolor,Synthetic,Foot Locker,Store_98
+RB-BSK-M-003,Reebok,Reebok Court Dominator (Men's),Basketball,Men's,Winter,West Coast,1/8/2025,104.44,70.94,0.24,118.8,13,Blue,Synthetic,Zappos,Store_06
+SK-SND-W-004,Skechers,Skechers Sun Slide (Women's),Sandals,Women's,Summer,Northeast,7/13/2024,38.89,20.67,0.29,39.4,6.5,Navy,Leather,Amazon,Store_13
+PU-HIK-M-005,Puma,Puma Alpine Step (Men's),Hiking,Men's,Summer,Southwest,7/13/2024,93.5,61.5,0.35,100.4,9.5,Gray,Gore-Tex,Nike Store,Store_60
+RB-RUN-W-006,Reebok,Reebok Ultra Stride (Women's),Running,Women's,Spring,Northeast,3/24/2025,163.59,78.92,0.25,138.95,6.5,Green,Knit,Amazon,Store_73
+AS-CSL-Y-007,ASICS,ASICS Urban Walker (Youth),Casual,Youth,Spring,South,4/22/2024,79.44,57.9,0.26,70.32,6.5Y,Tan,Suede,Dick's Sporting Goods,Store_47
+AD-CSL-W-008,Adidas,Adidas Chill Step (Women's),Casual,Women's,Spring,West Coast,5/8/2024,118.44,56.96,0.38,106.07,9,White,Synthetic,Kohl's,Store_68
+VN-HIK-Y-009,Vans,Vans Terrain Master (Youth),Hiking,Youth,Spring,Northeast,3/24/2025,115.45,83.98,0.33,111.24,7Y,Green,Leather,Foot Locker,Store_93
+AD-HIK-W-010,Adidas,Adidas Terrain Master (Women's),Hiking,Women's,Summer,South,6/14/2024,151.06,72.43,0.28,124.37,10,Gray,Gore-Tex,Foot Locker,Store_77
+SK-TRN-M-011,Skechers,Skechers Train Hard (Men's),Training,Men's,Fall,South,9/29/2024,93.8,62.63,0.22,89.04,11.5,White,Mesh,DSW,Store_98
+SK-BOT-W-012,Skechers,Skechers Storm Shield (Women's),Boots,Women's,Fall,Southwest,11/28/2024,116.66,73.02,0.33,123.88,8,Navy,Synthetic,Dick's Sporting Goods,Store_86
+AD-SND-M-013,Adidas,Adidas Comfort Float (Men's),Sandals,Men's,Winter,Southwest,12/28/2024,42.25,29.15,0.29,36.17,9.5,Navy,Synthetic,Foot Locker,Store_10
+AD-TRN-Y-014,Adidas,Adidas Gym Pro (Youth),Training,Youth,Winter,West Coast,2/17/2025,64.16,48.28,0.27,65.4,7Y,Tan,Mesh,Amazon,Store_61
+BR-LFS-M-015,Brooks,Brooks Retro Classic (Men's),Lifestyle,Men's,Spring,Northeast,4/7/2024,86.29,49.45,0.27,84.5,8.5,Green,Suede,Amazon,Store_25
+AD-LFS-M-016,Adidas,Adidas Vintage Wave (Men's),Lifestyle,Men's,Summer,Northeast,7/27/2024,75.76,47.43,0.29,86.91,8.5,Tan,Canvas,Amazon,Store_22
+BR-RUN-U-017,Brooks,Brooks FlexRun 2.0 (Unisex),Running,Unisex,Spring,Midwest,4/7/2024,97.76,54.91,0.39,93.05,11,Red,Knit,Kohl's,Store_20
+RB-RUN-M-018,Reebok,Reebok FlexRun 2.0 (Men's),Running,Men's,Winter,Southwest,2/11/2024,134.15,86.53,0.23,114.77,9,Tan,Synthetic,Foot Locker,Store_66
+BR-BSK-W-019,Brooks,Brooks Court Vision (Women's),Basketball,Women's,Fall,Southwest,10/25/2024,143.22,77.61,0.29,130.46,6.5,Black,Mesh,Dick's Sporting Goods,Store_85
+RB-TRN-Y-020,Reebok,Reebok Gym Pro (Youth),Training,Youth,Summer,West Coast,8/22/2024,73.23,56.85,0.29,69.81,6Y,Red,Synthetic,DSW,Store_02
+VN-HIK-W-021,Vans,Vans Trail Blazer (Women's),Hiking,Women's,Spring,Midwest,3/2/2025,145.55,75.16,0.24,126.72,8,Navy,Synthetic,Nike Store,Store_57
+VN-RUN-Y-022,Vans,Vans Speed Boost Elite (Youth),Running,Youth,Spring,Northeast,5/24/2024,93.13,72.48,0.29,85.86,4Y,Red,Mesh,Nike Store,Store_35
+SK-LFS-Y-023,Skechers,Skechers Retro Classic (Youth),Lifestyle,Youth,Winter,Northeast,1/29/2025,36.99,33.23,0.34,36.5,3.5Y,Green,Suede,Foot Locker,Store_43
+BR-RUN-M-024,Brooks,Brooks CloudRun X (Men's),Running,Men's,Fall,Northeast,10/9/2024,98.5,46.44,0.27,83.29,8,Gray,Synthetic,Academy Sports,Store_75
+NK-SND-W-025,Nike,Nike Coastal Drift (Women's),Sandals,Women's,Winter,South,1/18/2025,27.53,17.71,0.41,22.73,10,White,Leather,Dick's Sporting Goods,Store_80
+NB-BOT-M-026,New Balance,New Balance Storm Shield (Men's),Boots,Men's,Winter,South,2/7/2025,172.61,94.99,0.29,168.54,9.5,Blue,Suede,Zappos,Store_21
+PU-LFS-Y-027,Puma,Puma Heritage Runner (Youth),Lifestyle,Youth,Spring,Midwest,5/22/2024,74.58,62.57,0.36,68.59,5Y,Navy,Canvas,Dick's Sporting Goods,Store_43
+BR-SND-M-028,Brooks,Brooks Summer Stride (Men's),Sandals,Men's,Fall,Northeast,11/1/2024,38.14,24.43,0.35,35.5,10,Gray,Synthetic,Foot Locker,Store_14
+VN-BSK-U-029,Vans,Vans Hoop Legend (Unisex),Basketball,Unisex,Fall,Southwest,9/23/2024,178.24,100.31,0.27,158.5,11,Red,Leather,Dick's Sporting Goods,Store_01
+PU-SND-U-030,Puma,Puma Coastal Drift (Unisex),Sandals,Unisex,Summer,Northeast,6/2/2024,56.47,26.17,0.31,50.97,8,Blue,Synthetic,DSW,Store_93
+VN-CSL-W-031,Vans,Vans City Stroll (Women's),Casual,Women's,Spring,West Coast,3/2/2025,40.2,22.01,0.24,37.76,8,Green,Leather,Dick's Sporting Goods,Store_71
+RB-LFS-U-032,Reebok,Reebok Vintage Wave (Unisex),Lifestyle,Unisex,Winter,West Coast,2/13/2024,58.15,39.35,0.31,65.74,12,Navy,Knit,Nike Store,Store_85
+PU-HIK-W-033,Puma,Puma Summit Grip (Women's),Hiking,Women's,Spring,South,3/11/2025,158.49,86.42,0.28,149.1,7.5,Black,Leather,Kohl's,Store_79
+BR-LFS-U-034,Brooks,Brooks Heritage Runner (Unisex),Lifestyle,Unisex,Spring,South,3/31/2024,101.78,60.16,0.35,96.36,12,Black,Canvas,Dick's Sporting Goods,Store_29
+AD-LFS-W-035,Adidas,Adidas Vintage Wave (Women's),Lifestyle,Women's,Summer,West Coast,8/16/2024,117.47,63.89,0.36,124.19,9.5,Tan,Suede,Dick's Sporting Goods,Store_71
+PU-HIK-U-036,Puma,Puma Terrain Master (Unisex),Hiking,Unisex,Spring,South,5/19/2024,88,64.79,0.35,97.15,11,Brown,Leather,Zappos,Store_31
+BR-CSL-W-037,Brooks,Brooks Weekender (Women's),Casual,Women's,Winter,Northeast,2/1/2024,55.47,29.45,0.31,52.03,10,Green,Suede,Kohl's,Store_54
+NK-BOT-U-038,Nike,Nike Urban Chelsea (Unisex),Boots,Unisex,Winter,Northeast,1/17/2025,254.55,97.22,0.39,246.98,12,Red,Suede,Dick's Sporting Goods,Store_69
+SK-BOT-U-039,Skechers,Skechers Tough Terrain (Unisex),Boots,Unisex,Spring,Northeast,3/25/2024,158.24,104.31,0.33,151.05,11,Blue,Synthetic,Dick's Sporting Goods,Store_93
+BR-RUN-M-040,Brooks,Brooks Speed Boost Elite (Men's),Running,Men's,Summer,West Coast,6/16/2024,94.09,50.06,0.3,95.01,8,Brown,Mesh,Zappos,Store_49
+BR-HIK-M-041,Brooks,Brooks Trail Blazer (Men's),Hiking,Men's,Winter,West Coast,2/5/2024,165.26,87.06,0.34,137.56,10.5,Tan,Leather,Amazon,Store_84
+PU-RUN-W-042,Puma,Puma Speed Boost Elite (Women's),Running,Women's,Winter,South,12/24/2024,92.53,52.61,0.27,76.69,6.5,Brown,Synthetic,Amazon,Store_60
+AD-CSL-Y-043,Adidas,Adidas Chill Step (Youth),Casual,Youth,Spring,Northeast,4/11/2024,32.13,24.74,0.36,36.2,6.5Y,Black,Suede,Dick's Sporting Goods,Store_92
+SK-BSK-M-044,Skechers,Skechers Court Vision (Men's),Basketball,Men's,Fall,Midwest,11/27/2024,87.82,63.5,0.32,98.78,10.5,Green,Mesh,DSW,Store_65
+RB-LFS-W-045,Reebok,Reebok Heritage Runner (Women's),Lifestyle,Women's,Summer,West Coast,8/11/2024,97.38,61.03,0.3,103.5,10,Tan,Suede,Kohl's,Store_60
+AD-HIK-U-046,Adidas,Adidas Peak Walker (Unisex),Hiking,Unisex,Winter,South,1/15/2024,99.11,72.72,0.31,101,11,Multicolor,Gore-Tex,Dick's Sporting Goods,Store_44
+SK-SND-Y-047,Skechers,Skechers Coastal Drift (Youth),Sandals,Youth,Spring,Southwest,5/3/2024,42.74,31.28,0.27,38.66,3.5Y,Red,Synthetic,Amazon,Store_11
+AS-LFS-M-048,ASICS,ASICS Street Edge (Men's),Lifestyle,Men's,Fall,Northeast,10/24/2024,90.16,42.76,0.32,73.98,9.5,Navy,Knit,Zappos,Store_85
+VN-SND-Y-049,Vans,Vans Summer Stride (Youth),Sandals,Youth,Spring,West Coast,4/8/2024,33.65,21.57,0.3,30.44,5Y,Red,Leather,DSW,Store_93
+PU-TRN-U-050,Puma,Puma Flex Force (Unisex),Training,Unisex,Spring,Midwest,3/2/2025,52.33,39.76,0.25,61.19,10,Multicolor,Knit,Zappos,Store_13
+VN-CSL-Y-051,Vans,Vans Street Classic (Youth),Casual,Youth,Spring,Northeast,3/22/2025,27.06,22.44,0.24,27.72,4.5Y,Tan,Suede,Kohl's,Store_14
+NK-HIK-U-052,Nike,Nike Trail Blazer (Unisex),Hiking,Unisex,Spring,Northeast,3/17/2024,162.12,88.56,0.41,172.13,6,Green,Synthetic,Foot Locker,Store_20
+VN-BOT-W-053,Vans,Vans Tough Terrain (Women's),Boots,Women's,Fall,Southwest,10/18/2024,190.44,89.61,0.28,158.62,8,Brown,Suede,Dick's Sporting Goods,Store_40
+PU-TRN-Y-054,Puma,Puma Gym Pro (Youth),Training,Youth,Summer,Northeast,7/28/2024,58.91,50.02,0.3,62.96,4Y,Navy,Mesh,Nike Store,Store_01
+SK-LFS-M-055,Skechers,Skechers Street Edge (Men's),Lifestyle,Men's,Spring,South,4/25/2024,70.71,53.91,0.33,80.68,11,Multicolor,Leather,DSW,Store_70
+NB-HIK-Y-056,New Balance,New Balance Trail Blazer (Youth),Hiking,Youth,Fall,West Coast,9/13/2024,129.3,75,0.3,109.66,5.5Y,Brown,Gore-Tex,Dick's Sporting Goods,Store_35
+RB-HIK-M-057,Reebok,Reebok Summit Grip (Men's),Hiking,Men's,Winter,Northeast,1/21/2024,121.2,86.16,0.24,119.57,8,Multicolor,Gore-Tex,Zappos,Store_74
+SK-CSL-U-058,Skechers,Skechers Street Classic (Unisex),Casual,Unisex,Winter,West Coast,12/9/2024,39.14,25.77,0.22,37.88,9,Brown,Suede,Academy Sports,Store_42
+BR-RUN-U-059,Brooks,Brooks Ultra Stride (Unisex),Running,Unisex,Winter,Northeast,2/26/2025,160.6,94.32,0.34,160.14,6,Red,Knit,Dick's Sporting Goods,Store_66
+PU-SND-U-060,Puma,Puma Sun Slide (Unisex),Sandals,Unisex,Summer,West Coast,8/12/2024,72.06,35.14,0.29,66.53,10,Navy,Leather,Nike Store,Store_37
+PU-CSL-Y-061,Puma,Puma Street Classic (Youth),Casual,Youth,Summer,Southwest,8/24/2024,75.71,56.09,0.31,63.35,4Y,Tan,Synthetic,Amazon,Store_15
+SK-HIK-U-062,Skechers,Skechers Peak Walker (Unisex),Hiking,Unisex,Spring,West Coast,4/7/2024,203.33,94.09,0.27,173.83,10,Navy,Synthetic,Nike Store,Store_50
+SK-BOT-Y-063,Skechers,Skechers Urban Chelsea (Youth),Boots,Youth,Summer,Southwest,8/16/2024,72.27,84.08,0.25,68.76,5.5Y,Black,Suede,Kohl's,Store_20
+AS-SND-W-064,ASICS,ASICS Comfort Float (Women's),Sandals,Women's,Winter,South,1/16/2025,33.69,25.35,0.37,27.71,9,Green,Rubber,Foot Locker,Store_41
+NB-LFS-M-065,New Balance,New Balance City Stepper (Men's),Lifestyle,Men's,Fall,South,9/26/2024,111.18,64.42,0.24,94.84,8.5,Multicolor,Suede,Kohl's,Store_13
+NB-BSK-U-066,New Balance,New Balance Air Slam (Unisex),Basketball,Unisex,Spring,Midwest,3/12/2025,151.83,84.48,0.31,140.33,9,Multicolor,Mesh,DSW,Store_43
+AS-RUN-M-067,ASICS,ASICS CloudRun X (Men's),Running,Men's,Winter,South,1/24/2025,119.29,74.12,0.36,107.78,8.5,Red,Mesh,Dick's Sporting Goods,Store_13
+NK-RUN-Y-068,Nike,Nike Ultra Stride (Youth),Running,Youth,Fall,Northeast,9/28/2024,80.13,61.49,0.38,87.59,6.5Y,Blue,Knit,Nike Store,Store_32
+CV-BOT-W-069,Converse,Converse Classic Lace-Up (Women's),Boots,Women's,Spring,West Coast,5/10/2024,119.49,92.68,0.31,124.93,9.5,Gray,Leather,Zappos,Store_59
+VN-CSL-M-070,Vans,Vans Daily Comfort (Men's),Casual,Men's,Spring,West Coast,3/8/2025,51.82,32.88,0.33,58.26,11,Multicolor,Suede,Zappos,Store_59
+BR-SND-Y-071,Brooks,Brooks Sun Slide (Youth),Sandals,Youth,Winter,Midwest,1/16/2025,23.83,25.92,0.38,20.8,3.5Y,Green,Leather,Foot Locker,Store_78
+CV-SND-W-072,Converse,Converse Comfort Float (Women's),Sandals,Women's,Fall,South,11/26/2024,16.2,14.95,0.29,16.45,7,Red,Synthetic,DSW,Store_81
+NB-BSK-Y-073,New Balance,New Balance Rise Elite (Youth),Basketball,Youth,Spring,Midwest,3/24/2025,146.48,103.2,0.31,126.57,5Y,Green,Leather,Nike Store,Store_70
+SK-LFS-Y-074,Skechers,Skechers Retro Classic (Youth),Lifestyle,Youth,Winter,Midwest,1/5/2025,63.45,54.98,0.26,60.07,4.5Y,Brown,Canvas,Amazon,Store_87
+AD-BOT-M-075,Adidas,Adidas Classic Lace-Up (Men's),Boots,Men's,Summer,Midwest,7/14/2024,111.67,103.1,0.39,119.24,10.5,White,Suede,Zappos,Store_75
+NK-SND-W-076,Nike,Nike Coastal Drift (Women's),Sandals,Women's,Spring,Northeast,3/12/2024,31.15,15.09,0.29,34.88,8,Brown,Synthetic,Dick's Sporting Goods,Store_15
+PU-CSL-U-077,Puma,Puma Daily Comfort (Unisex),Casual,Unisex,Winter,West Coast,12/1/2024,47.31,25.56,0.29,39.36,10,Tan,Synthetic,Nike Store,Store_54
+NK-SND-W-078,Nike,Nike Arch Support Plus (Women's),Sandals,Women's,Fall,West Coast,11/26/2024,32.69,22.61,0.34,36.52,6.5,Navy,Leather,Academy Sports,Store_70
+AS-BSK-W-079,ASICS,ASICS Court Dominator (Women's),Basketball,Women's,Spring,Southwest,4/15/2024,67.54,46.32,0.35,72.63,7.5,Black,Synthetic,Nike Store,Store_73
+PU-SND-W-080,Puma,Puma Sun Slide (Women's),Sandals,Women's,Winter,Southwest,2/26/2024,34.51,29.87,0.22,30.21,7,Red,Rubber,Zappos,Store_23
+PU-SND-M-081,Puma,Puma Summer Stride (Men's),Sandals,Men's,Winter,South,2/2/2024,23.29,25.43,0.33,26.16,11,Black,Rubber,DSW,Store_96
+VN-TRN-M-082,Vans,Vans PowerFit (Men's),Training,Men's,Spring,Southwest,3/9/2025,88.72,48.06,0.29,74.77,8,Brown,Knit,Foot Locker,Store_62
+AD-BSK-Y-083,Adidas,Adidas Hoop Legend (Youth),Basketball,Youth,Fall,Southwest,11/1/2024,89.42,75.43,0.32,100.85,5.5Y,White,Leather,Academy Sports,Store_49
+AD-TRN-U-084,Adidas,Adidas Gym Pro (Unisex),Training,Unisex,Summer,West Coast,7/31/2024,110.61,61.18,0.3,117.13,12,Green,Synthetic,Kohl's,Store_52
+NB-LFS-M-085,New Balance,New Balance Retro Classic (Men's),Lifestyle,Men's,Fall,Northeast,10/11/2024,58.92,30.4,0.37,53.67,8.5,White,Knit,Academy Sports,Store_17
+BR-SND-U-086,Brooks,Brooks Summer Stride (Unisex),Sandals,Unisex,Fall,Northeast,9/16/2024,24.62,19.11,0.34,27.66,8,Multicolor,Leather,DSW,Store_74
+VN-SND-M-087,Vans,Vans Comfort Float (Men's),Sandals,Men's,Winter,Midwest,12/2/2024,35.46,33.91,0.23,31.95,12,Navy,Leather,Foot Locker,Store_78
+SK-SND-Y-088,Skechers,Skechers Beach Cruiser (Youth),Sandals,Youth,Winter,Northeast,1/14/2025,23.25,29.2,0.2,25.01,6.5Y,Gray,Synthetic,DSW,Store_19
+BR-LFS-Y-089,Brooks,Brooks Street Edge (Youth),Lifestyle,Youth,Spring,South,3/21/2024,66.13,58.18,0.26,65.22,4Y,Red,Suede,Foot Locker,Store_20
+BR-LFS-U-090,Brooks,Brooks Street Edge (Unisex),Lifestyle,Unisex,Spring,West Coast,5/25/2024,98.46,55.13,0.33,102.12,8,Navy,Canvas,Dick's Sporting Goods,Store_15
+PU-BOT-M-091,Puma,Puma Heritage Work Boot (Men's),Boots,Men's,Summer,Northeast,6/16/2024,61.61,56.04,0.29,68.62,9,Red,Leather,Zappos,Store_38
+VN-TRN-Y-092,Vans,Vans Iron Sole (Youth),Training,Youth,Spring,Northeast,3/17/2025,60.8,44.52,0.26,55.94,3.5Y,Black,Synthetic,Kohl's,Store_10
+SK-BSK-U-093,Skechers,Skechers Air Slam (Unisex),Basketball,Unisex,Summer,Northeast,8/11/2024,172.86,95.2,0.23,165.6,9,Gray,Mesh,Academy Sports,Store_12
+BR-HIK-Y-094,Brooks,Brooks Terrain Master (Youth),Hiking,Youth,Summer,South,6/28/2024,101.93,84.37,0.36,108.73,4Y,Gray,Leather,Amazon,Store_45
+NB-HIK-W-095,New Balance,New Balance Ridge Runner (Women's),Hiking,Women's,Fall,South,11/17/2024,132.55,72.71,0.35,130.45,6.5,Gray,Gore-Tex,Nike Store,Store_99
+CV-SND-Y-096,Converse,Converse Arch Support Plus (Youth),Sandals,Youth,Fall,South,10/29/2024,13.06,15.35,0.26,12.84,7Y,White,Leather,Zappos,Store_36
+NK-SND-Y-097,Nike,Nike Coastal Drift (Youth),Sandals,Youth,Fall,Northeast,10/10/2024,49.38,36.9,0.38,41.62,6.5Y,White,Synthetic,Kohl's,Store_75
+CV-TRN-Y-098,Converse,Converse Iron Sole (Youth),Training,Youth,Winter,Southwest,2/19/2025,72.17,67.97,0.24,69.62,3.5Y,Tan,Mesh,Kohl's,Store_14
+NB-RUN-W-099,New Balance,New Balance FlexRun 2.0 (Women's),Running,Women's,Spring,West Coast,5/24/2024,101.3,60.08,0.35,116.52,7,Tan,Synthetic,Academy Sports,Store_48
+RB-BSK-Y-100,Reebok,Reebok Court Vision (Youth),Basketball,Youth,Winter,Northeast,2/11/2024,107.83,78.71,0.24,89.26,5.5Y,Green,Synthetic,Nike Store,Store_43
+BR-CSL-M-101,Brooks,Brooks Chill Step (Men's),Casual,Men's,Winter,Midwest,12/9/2024,48.58,37.24,0.3,53,9,Green,Suede,DSW,Store_83
+PU-SND-U-102,Puma,Puma Beach Cruiser (Unisex),Sandals,Unisex,Fall,South,9/16/2024,37.38,32.5,0.34,43.26,6,Gray,Rubber,Zappos,Store_13
+RB-CSL-U-103,Reebok,Reebok Urban Walker (Unisex),Casual,Unisex,Summer,South,7/29/2024,62.04,35.11,0.31,57.66,11,Gray,Leather,Kohl's,Store_06
+AS-TRN-W-104,ASICS,ASICS Iron Sole (Women's),Training,Women's,Spring,Midwest,5/24/2024,98.45,63.12,0.31,108.19,9.5,Navy,Synthetic,Kohl's,Store_99
+PU-CSL-Y-105,Puma,Puma City Stroll (Youth),Casual,Youth,Winter,Northeast,2/12/2024,54.02,49.47,0.26,59.72,4Y,Brown,Suede,DSW,Store_37
+BR-BSK-W-106,Brooks,Brooks Air Slam (Women's),Basketball,Women's,Summer,West Coast,7/10/2024,95.63,56.85,0.39,111.14,6,Black,Synthetic,Dick's Sporting Goods,Store_65
+AD-SND-W-107,Adidas,Adidas Sun Slide (Women's),Sandals,Women's,Fall,South,11/11/2024,22.39,14.13,0.27,19.32,7,Red,Leather,Kohl's,Store_58
+VN-BOT-M-108,Vans,Vans Heritage Work Boot (Men's),Boots,Men's,Fall,Midwest,11/23/2024,183.59,101.19,0.26,154.94,8,Red,Leather,Amazon,Store_54
+CV-RUN-W-109,Converse,Converse Ultra Stride (Women's),Running,Women's,Summer,South,8/1/2024,68.17,48.68,0.28,69.32,8.5,Green,Mesh,Amazon,Store_74
+VN-RUN-U-110,Vans,Vans Air Runner Pro (Unisex),Running,Unisex,Winter,West Coast,2/7/2025,58.52,41.85,0.23,65.88,8,Green,Knit,Foot Locker,Store_46
+CV-SND-W-111,Converse,Converse Summer Stride (Women's),Sandals,Women's,Fall,Northeast,9/2/2024,41.23,29.16,0.3,36.26,7,Tan,Leather,Kohl's,Store_90
+AS-RUN-Y-112,ASICS,ASICS Air Runner Pro (Youth),Running,Youth,Summer,South,7/22/2024,121.17,94.38,0.32,107.35,6Y,Navy,Mesh,Zappos,Store_66
+PU-HIK-Y-113,Puma,Puma Alpine Step (Youth),Hiking,Youth,Summer,Northeast,7/23/2024,131.65,85.17,0.35,108.78,4Y,Blue,Synthetic,Academy Sports,Store_56
+AS-LFS-Y-114,ASICS,ASICS Street Edge (Youth),Lifestyle,Youth,Winter,Southwest,2/25/2025,37.66,35.22,0.28,38.77,4Y,White,Knit,Dick's Sporting Goods,Store_78
+SK-HIK-U-115,Skechers,Skechers Alpine Step (Unisex),Hiking,Unisex,Summer,Southwest,8/16/2024,91.44,50.12,0.32,74.99,11,Green,Leather,Kohl's,Store_45
+SK-RUN-M-116,Skechers,Skechers Ultra Stride (Men's),Running,Men's,Spring,West Coast,3/10/2025,99.53,72.63,0.31,113.76,9,Tan,Synthetic,Foot Locker,Store_19
+RB-SND-U-117,Reebok,Reebok Sun Slide (Unisex),Sandals,Unisex,Summer,Southwest,7/9/2024,41.58,24.65,0.23,42.18,11,Multicolor,Rubber,Kohl's,Store_48
+RB-HIK-W-118,Reebok,Reebok Trail Blazer (Women's),Hiking,Women's,Spring,Northeast,3/1/2024,133.75,61.09,0.25,109.75,10,Gray,Synthetic,Dick's Sporting Goods,Store_72
+SK-LFS-W-119,Skechers,Skechers Heritage Runner (Women's),Lifestyle,Women's,Winter,Northeast,2/18/2025,83.62,55.28,0.32,85.45,7,White,Knit,Kohl's,Store_12
+AD-HIK-Y-120,Adidas,Adidas Alpine Step (Youth),Hiking,Youth,Winter,South,2/9/2025,55.66,54.94,0.37,52.76,5Y,Gray,Synthetic,DSW,Store_26
+RB-LFS-W-121,Reebok,Reebok Retro Classic (Women's),Lifestyle,Women's,Summer,Southwest,7/29/2024,104.39,58.77,0.33,86.29,9,White,Suede,Kohl's,Store_68
+AD-LFS-U-122,Adidas,Adidas Street Edge (Unisex),Lifestyle,Unisex,Fall,Southwest,9/14/2024,94.94,64.43,0.27,104.72,12,Gray,Leather,Nike Store,Store_56
+NB-CSL-Y-123,New Balance,New Balance Daily Comfort (Youth),Casual,Youth,Fall,South,11/21/2024,70.8,56.43,0.28,65.72,4Y,Tan,Suede,Zappos,Store_26
+AD-CSL-W-124,Adidas,Adidas City Stroll (Women's),Casual,Women's,Winter,South,1/24/2024,77.22,56.15,0.37,83.21,6,Multicolor,Suede,Foot Locker,Store_11
+CV-BOT-M-125,Converse,Converse Storm Shield (Men's),Boots,Men's,Winter,West Coast,2/16/2025,216.69,102.09,0.25,196.14,10,Tan,Suede,Kohl's,Store_32
+NB-LFS-U-126,New Balance,New Balance Modern Icon (Unisex),Lifestyle,Unisex,Spring,West Coast,3/17/2025,130.27,56.73,0.34,107.58,10,Navy,Suede,Nike Store,Store_41
+NB-SND-M-127,New Balance,New Balance Beach Cruiser (Men's),Sandals,Men's,Spring,Midwest,3/13/2024,29.28,16.32,0.28,27.17,10,Brown,Rubber,Kohl's,Store_32
+PU-CSL-Y-128,Puma,Puma City Stroll (Youth),Casual,Youth,Summer,Southwest,8/27/2024,53.03,39.96,0.26,44.2,4.5Y,Blue,Leather,Kohl's,Store_66
+VN-LFS-W-129,Vans,Vans City Stepper (Women's),Lifestyle,Women's,Fall,South,11/1/2024,97.11,63.29,0.29,92.61,6,Blue,Canvas,Zappos,Store_64
+AD-BOT-W-130,Adidas,Adidas Storm Shield (Women's),Boots,Women's,Winter,Midwest,1/27/2024,160.73,86.21,0.29,183.23,8.5,Blue,Suede,Foot Locker,Store_52
+VN-LFS-Y-131,Vans,Vans Vintage Wave (Youth),Lifestyle,Youth,Summer,Southwest,7/10/2024,79.41,59.8,0.24,70.32,4.5Y,Multicolor,Canvas,DSW,Store_51
+PU-BOT-M-132,Puma,Puma All-Weather Boot (Men's),Boots,Men's,Summer,Northeast,8/21/2024,81.09,57.98,0.35,67.88,10.5,Gray,Synthetic,Kohl's,Store_67
+RB-CSL-U-133,Reebok,Reebok City Stroll (Unisex),Casual,Unisex,Fall,Southwest,10/15/2024,53.26,32.79,0.33,48.45,10,Red,Suede,Kohl's,Store_91
+BR-HIK-M-134,Brooks,Brooks Peak Walker (Men's),Hiking,Men's,Winter,Southwest,1/27/2024,116.33,77.18,0.27,107.78,13,Red,Gore-Tex,Amazon,Store_93
+BR-CSL-W-135,Brooks,Brooks Chill Step (Women's),Casual,Women's,Summer,Northeast,8/2/2024,58.54,27.45,0.35,51.5,6,White,Leather,Kohl's,Store_41
+AS-RUN-W-136,ASICS,ASICS Speed Boost Elite (Women's),Running,Women's,Spring,Southwest,3/29/2024,122.43,64.2,0.31,111.29,9.5,Tan,Knit,Dick's Sporting Goods,Store_41
+SK-LFS-W-137,Skechers,Skechers Street Edge (Women's),Lifestyle,Women's,Spring,South,5/27/2024,84.73,56.2,0.3,82.46,7.5,Tan,Suede,Zappos,Store_99
+VN-HIK-Y-138,Vans,Vans Ridge Runner (Youth),Hiking,Youth,Winter,Northeast,2/15/2025,52.12,55.32,0.21,59.28,6.5Y,Tan,Synthetic,Academy Sports,Store_99
+AS-HIK-U-139,ASICS,ASICS Summit Grip (Unisex),Hiking,Unisex,Winter,South,2/25/2024,110.21,78.78,0.32,100.39,10,Tan,Synthetic,Zappos,Store_18
+VN-TRN-W-140,Vans,Vans Cross Trainer X (Women's),Training,Women's,Winter,Northeast,1/29/2025,56.21,37.5,0.33,61.87,9.5,Green,Synthetic,DSW,Store_88
+AS-LFS-W-141,ASICS,ASICS Street Edge (Women's),Lifestyle,Women's,Winter,Midwest,1/13/2025,87.03,56.92,0.37,95.14,6.5,Red,Canvas,Amazon,Store_69
+NB-RUN-U-142,New Balance,New Balance Speed Boost Elite (Unisex),Running,Unisex,Fall,West Coast,11/4/2024,96.18,44.12,0.38,79.1,6,Red,Mesh,Zappos,Store_73
+VN-LFS-W-143,Vans,Vans Modern Icon (Women's),Lifestyle,Women's,Winter,Southwest,1/9/2025,72.24,46.36,0.23,64.35,6.5,Red,Leather,Academy Sports,Store_21
+SK-TRN-W-144,Skechers,Skechers Flex Force (Women's),Training,Women's,Summer,Southwest,7/24/2024,84.15,58.77,0.23,86.78,10,Green,Synthetic,Academy Sports,Store_12
+PU-RUN-Y-145,Puma,Puma Speed Boost Elite (Youth),Running,Youth,Winter,West Coast,1/5/2025,77.63,70.65,0.26,82.81,6Y,Brown,Knit,Zappos,Store_75
+AD-LFS-Y-146,Adidas,Adidas Modern Icon (Youth),Lifestyle,Youth,Fall,South,11/10/2024,46.35,36.83,0.39,45.52,4Y,Tan,Suede,Zappos,Store_48
+CV-SND-U-147,Converse,Converse Arch Support Plus (Unisex),Sandals,Unisex,Spring,Southwest,5/6/2024,51.13,30.33,0.27,48.95,12,Tan,Synthetic,Amazon,Store_98
+VN-SND-M-148,Vans,Vans Sun Slide (Men's),Sandals,Men's,Fall,Southwest,10/1/2024,19.33,17.6,0.24,21.65,12,Black,Synthetic,Amazon,Store_74
+PU-LFS-M-149,Puma,Puma Modern Icon (Men's),Lifestyle,Men's,Fall,Southwest,10/15/2024,54.65,30.31,0.28,48.9,9,Black,Knit,Dick's Sporting Goods,Store_59
+BR-HIK-M-150,Brooks,Brooks Ridge Runner (Men's),Hiking,Men's,Winter,South,2/2/2024,128.28,75.06,0.26,105.59,11,White,Leather,Academy Sports,Store_90
+AS-RUN-Y-151,ASICS,ASICS Speed Boost Elite (Youth),Running,Youth,Summer,West Coast,8/17/2024,128.22,87.57,0.37,116.29,6.5Y,Gray,Synthetic,Academy Sports,Store_49
+VN-CSL-Y-152,Vans,Vans Urban Walker (Youth),Casual,Youth,Winter,Northeast,1/22/2025,26.73,22.82,0.24,25.42,4.5Y,Tan,Synthetic,Amazon,Store_01
+VN-BOT-W-153,Vans,Vans Tough Terrain (Women's),Boots,Women's,Winter,South,1/26/2025,112.06,55.56,0.31,98.87,8,Blue,Leather,Amazon,Store_93
+NK-TRN-W-154,Nike,Nike Cross Trainer X (Women's),Training,Women's,Winter,Northeast,1/14/2025,71.29,33.77,0.34,63.14,9.5,Multicolor,Mesh,Foot Locker,Store_32
+NK-CSL-Y-155,Nike,Nike City Stroll (Youth),Casual,Youth,Spring,South,3/24/2025,33.27,27.16,0.37,34.61,6Y,Multicolor,Suede,Amazon,Store_39
+NK-CSL-U-156,Nike,Nike Weekender (Unisex),Casual,Unisex,Summer,Southwest,6/12/2024,77.41,47.07,0.34,84.32,11,Black,Suede,Dick's Sporting Goods,Store_68
+VN-LFS-W-157,Vans,Vans Street Edge (Women's),Lifestyle,Women's,Fall,South,10/12/2024,67.73,49.2,0.25,69.67,6,Gray,Knit,Dick's Sporting Goods,Store_54
+AD-LFS-Y-158,Adidas,Adidas City Stepper (Youth),Lifestyle,Youth,Fall,Northeast,11/5/2024,78.46,52.12,0.38,69.32,5.5Y,Navy,Canvas,Dick's Sporting Goods,Store_87
+VN-TRN-U-159,Vans,Vans PowerFit (Unisex),Training,Unisex,Spring,South,3/1/2024,111.04,61.88,0.3,100.27,7,Red,Mesh,Amazon,Store_95
+PU-BOT-W-160,Puma,Puma Urban Chelsea (Women's),Boots,Women's,Spring,Southwest,5/13/2024,108.95,72.1,0.34,94.98,9.5,Red,Suede,Academy Sports,Store_40
+AS-SND-W-161,ASICS,ASICS Summer Stride (Women's),Sandals,Women's,Spring,Midwest,5/13/2024,47.76,27.28,0.32,49.79,7.5,Green,Rubber,Nike Store,Store_03
+PU-SND-W-162,Puma,Puma Comfort Float (Women's),Sandals,Women's,Winter,West Coast,1/25/2025,43.04,33.72,0.36,41.72,10,Navy,Leather,Academy Sports,Store_33
+NB-SND-W-163,New Balance,New Balance Coastal Drift (Women's),Sandals,Women's,Winter,South,1/18/2024,34.11,34.14,0.25,39.3,7,Tan,Leather,Foot Locker,Store_68
+NK-BOT-W-164,Nike,Nike All-Weather Boot (Women's),Boots,Women's,Winter,South,1/31/2024,203.39,89.39,0.37,197.7,7.5,Gray,Leather,Kohl's,Store_48
+AS-RUN-M-165,ASICS,ASICS Pace Setter (Men's),Running,Men's,Spring,Southwest,5/26/2024,76.76,38.98,0.35,66.85,8,Green,Mesh,Zappos,Store_69
+NB-BSK-M-166,New Balance,New Balance Hoop Legend (Men's),Basketball,Men's,Spring,Southwest,5/16/2024,157.74,92.08,0.25,154.67,13,Navy,Leather,Zappos,Store_46
+PU-TRN-Y-167,Puma,Puma Flex Force (Youth),Training,Youth,Fall,Northeast,10/9/2024,58.45,51.04,0.31,66.37,6.5Y,Black,Mesh,Dick's Sporting Goods,Store_49
+BR-SND-M-168,Brooks,Brooks Sun Slide (Men's),Sandals,Men's,Winter,Southwest,1/24/2024,41.49,36.18,0.35,39.48,13,Navy,Rubber,Kohl's,Store_35
+NK-CSL-Y-169,Nike,Nike Urban Walker (Youth),Casual,Youth,Spring,Northeast,3/24/2024,73.26,42.3,0.36,66.57,6.5Y,Multicolor,Leather,DSW,Store_39
+VN-SND-U-170,Vans,Vans Coastal Drift (Unisex),Sandals,Unisex,Winter,South,2/20/2024,26.83,24.49,0.31,23.65,11,White,Synthetic,Academy Sports,Store_07
+CV-BOT-Y-171,Converse,Converse Storm Shield (Youth),Boots,Youth,Fall,Northeast,10/10/2024,163.58,111.06,0.25,149.46,7Y,Red,Suede,Amazon,Store_46
+AD-HIK-W-172,Adidas,Adidas Trail Blazer (Women's),Hiking,Women's,Summer,Northeast,7/18/2024,112.39,63.83,0.27,116.58,9,Red,Leather,Nike Store,Store_95
+RB-HIK-M-173,Reebok,Reebok Trail Blazer (Men's),Hiking,Men's,Winter,South,1/14/2024,74.67,52.48,0.29,65.49,11.5,Gray,Synthetic,Dick's Sporting Goods,Store_14
+BR-RUN-Y-174,Brooks,Brooks FlexRun 2.0 (Youth),Running,Youth,Summer,West Coast,7/13/2024,56.99,47.66,0.29,63.04,5Y,White,Synthetic,Nike Store,Store_88
+NB-BOT-Y-175,New Balance,New Balance Urban Chelsea (Youth),Boots,Youth,Winter,West Coast,1/4/2025,124.98,89.88,0.32,140.49,6Y,Brown,Leather,Zappos,Store_32
+SK-RUN-U-176,Skechers,Skechers Pace Setter (Unisex),Running,Unisex,Winter,Midwest,2/21/2025,112.29,84.94,0.29,116.83,9,Green,Knit,Academy Sports,Store_56
+CV-TRN-U-177,Converse,Converse Gym Pro (Unisex),Training,Unisex,Winter,Midwest,2/4/2025,56.93,41.7,0.25,57.19,8,Green,Synthetic,Kohl's,Store_74
+AD-TRN-W-178,Adidas,Adidas Cross Trainer X (Women's),Training,Women's,Spring,Southwest,3/1/2025,116.08,59.71,0.37,115.92,7.5,Brown,Knit,Kohl's,Store_38
+AS-CSL-Y-179,ASICS,ASICS Daily Comfort (Youth),Casual,Youth,Fall,South,11/2/2024,54.16,39.25,0.3,45.49,6.5Y,Gray,Synthetic,DSW,Store_58
+BR-RUN-Y-180,Brooks,Brooks Pace Setter (Youth),Running,Youth,Fall,Southwest,11/27/2024,103,72.92,0.33,94.56,5Y,White,Mesh,Academy Sports,Store_22
+RB-BOT-M-181,Reebok,Reebok All-Weather Boot (Men's),Boots,Men's,Summer,Northeast,7/10/2024,95.04,74.21,0.32,91.81,12,Red,Leather,Amazon,Store_58
+RB-RUN-U-182,Reebok,Reebok Ultra Stride (Unisex),Running,Unisex,Summer,Northeast,6/8/2024,94.78,57.55,0.32,96.83,6,Green,Mesh,Nike Store,Store_45
+AD-LFS-U-183,Adidas,Adidas Retro Classic (Unisex),Lifestyle,Unisex,Spring,Midwest,3/10/2025,87.81,41.72,0.28,73.54,12,Red,Canvas,DSW,Store_03
+PU-CSL-W-184,Puma,Puma Chill Step (Women's),Casual,Women's,Spring,Midwest,4/4/2024,50.85,28.71,0.31,45.29,7.5,Green,Synthetic,Dick's Sporting Goods,Store_81
+PU-LFS-U-185,Puma,Puma Retro Classic (Unisex),Lifestyle,Unisex,Winter,West Coast,2/22/2024,90.22,59.98,0.3,97.76,8,Navy,Leather,DSW,Store_74
+AD-HIK-U-186,Adidas,Adidas Alpine Step (Unisex),Hiking,Unisex,Winter,Southwest,2/28/2024,109.92,65.4,0.38,95.49,9,Blue,Gore-Tex,Dick's Sporting Goods,Store_76
+SK-BSK-W-187,Skechers,Skechers Court Dominator (Women's),Basketball,Women's,Winter,Midwest,12/21/2024,75.91,50.91,0.25,71.43,6.5,Navy,Synthetic,Nike Store,Store_48
+BR-CSL-U-188,Brooks,Brooks City Stroll (Unisex),Casual,Unisex,Spring,Southwest,4/5/2024,52.25,33.32,0.31,53.16,9,Gray,Leather,Zappos,Store_18
+NK-LFS-W-189,Nike,Nike Modern Icon (Women's),Lifestyle,Women's,Winter,South,12/29/2024,84.8,61.6,0.35,98.44,9,Tan,Knit,Kohl's,Store_54
+PU-HIK-M-190,Puma,Puma Summit Grip (Men's),Hiking,Men's,Winter,Midwest,1/15/2025,116.06,86.63,0.29,109.29,9,Tan,Synthetic,Kohl's,Store_73
+SK-SND-M-191,Skechers,Skechers Comfort Float (Men's),Sandals,Men's,Spring,West Coast,3/23/2025,75.42,37.98,0.26,65.46,8.5,Navy,Leather,Amazon,Store_39
+AS-BSK-W-192,ASICS,ASICS Rise Elite (Women's),Basketball,Women's,Fall,South,11/11/2024,70.67,50.77,0.27,81.05,8.5,Multicolor,Mesh,Dick's Sporting Goods,Store_22
+RB-HIK-W-193,Reebok,Reebok Alpine Step (Women's),Hiking,Women's,Winter,Midwest,1/19/2025,140.44,87.28,0.34,119.95,8,Red,Synthetic,DSW,Store_18
+NB-CSL-W-194,New Balance,New Balance City Stroll (Women's),Casual,Women's,Fall,South,10/22/2024,60.56,44.77,0.33,68.98,9,Blue,Leather,Kohl's,Store_19
+AD-BOT-Y-195,Adidas,Adidas Tough Terrain (Youth),Boots,Youth,Summer,Midwest,8/22/2024,100.43,90.53,0.36,87.76,3.5Y,Brown,Suede,DSW,Store_94
+BR-TRN-U-196,Brooks,Brooks Iron Sole (Unisex),Training,Unisex,Fall,South,10/7/2024,86.54,55.12,0.33,88.56,12,Red,Synthetic,Zappos,Store_44
+NK-RUN-M-197,Nike,Nike Air Runner Pro (Men's),Running,Men's,Summer,West Coast,8/7/2024,100.73,49.53,0.38,92.37,11.5,White,Mesh,Kohl's,Store_01
+NB-HIK-M-198,New Balance,New Balance Terrain Master (Men's),Hiking,Men's,Fall,Midwest,11/16/2024,112.49,63.28,0.34,102.96,9,White,Synthetic,Foot Locker,Store_51
+AD-RUN-W-199,Adidas,Adidas Air Runner Pro (Women's),Running,Women's,Winter,West Coast,1/5/2024,152.35,77.65,0.37,151.4,7.5,Gray,Synthetic,Kohl's,Store_02
+NB-LFS-M-200,New Balance,New Balance Modern Icon (Men's),Lifestyle,Men's,Summer,South,6/2/2024,48.6,33.49,0.35,54.04,8.5,White,Canvas,Academy Sports,Store_48
+NB-BSK-M-201,New Balance,New Balance Rise Elite (Men's),Basketball,Men's,Winter,Southwest,1/18/2025,92.42,51.54,0.3,79.11,10.5,Gray,Synthetic,Amazon,Store_81
+AD-BSK-W-202,Adidas,Adidas Court Vision (Women's),Basketball,Women's,Spring,Northeast,5/6/2024,120.65,59.45,0.27,112.55,9,Green,Synthetic,Academy Sports,Store_18
+CV-HIK-M-203,Converse,Converse Summit Grip (Men's),Hiking,Men's,Summer,Midwest,7/19/2024,114.68,62.78,0.21,95.31,12,Tan,Gore-Tex,Amazon,Store_96
+AS-BOT-M-204,ASICS,ASICS Tough Terrain (Men's),Boots,Men's,Summer,South,6/11/2024,65.5,56.84,0.36,66.48,12,Multicolor,Leather,Foot Locker,Store_47
+NB-LFS-M-205,New Balance,New Balance City Stepper (Men's),Lifestyle,Men's,Winter,Northeast,1/31/2024,119.51,65.95,0.3,107.31,10,White,Canvas,Amazon,Store_06
+BR-BOT-U-206,Brooks,Brooks Storm Shield (Unisex),Boots,Unisex,Winter,Northeast,2/12/2024,167.61,68.76,0.32,145.88,10,Tan,Synthetic,Nike Store,Store_36
+VN-SND-U-207,Vans,Vans Coastal Drift (Unisex),Sandals,Unisex,Spring,Southwest,3/9/2025,30.03,19.73,0.23,33.63,11,White,Leather,Dick's Sporting Goods,Store_94
+CV-RUN-Y-208,Converse,Converse Air Runner Pro (Youth),Running,Youth,Fall,South,9/11/2024,114.29,92.32,0.26,102.35,4.5Y,Black,Synthetic,Foot Locker,Store_21
+NB-SND-W-209,New Balance,New Balance Coastal Drift (Women's),Sandals,Women's,Fall,Midwest,9/25/2024,18.61,15.53,0.34,21.18,8.5,White,Rubber,Dick's Sporting Goods,Store_35
+AS-SND-M-210,ASICS,ASICS Comfort Float (Men's),Sandals,Men's,Winter,West Coast,2/22/2024,46.51,35.46,0.33,41.38,9,Gray,Leather,Zappos,Store_99
+NK-RUN-M-211,Nike,Nike Air Runner Pro (Men's),Running,Men's,Spring,South,3/15/2025,79.99,40.02,0.39,73.21,11,Brown,Knit,Nike Store,Store_23
+PU-SND-W-212,Puma,Puma Coastal Drift (Women's),Sandals,Women's,Fall,West Coast,9/14/2024,44.28,30.16,0.23,42.54,6.5,Blue,Leather,Academy Sports,Store_16
+NK-BOT-M-213,Nike,Nike Urban Chelsea (Men's),Boots,Men's,Summer,West Coast,7/7/2024,93.5,61.44,0.36,86.54,8.5,Red,Suede,Kohl's,Store_02
+AS-SND-U-214,ASICS,ASICS Coastal Drift (Unisex),Sandals,Unisex,Winter,South,1/13/2024,26.38,19.59,0.29,22.46,7,Tan,Rubber,Foot Locker,Store_53
+RB-RUN-U-215,Reebok,Reebok Air Runner Pro (Unisex),Running,Unisex,Winter,Midwest,1/31/2024,109.83,93.44,0.24,126.79,7,Navy,Synthetic,Dick's Sporting Goods,Store_63
+PU-BOT-Y-216,Puma,Puma Storm Shield (Youth),Boots,Youth,Winter,West Coast,2/23/2025,120,74.42,0.3,109.58,4Y,White,Synthetic,Nike Store,Store_82
+NB-TRN-Y-217,New Balance,New Balance PowerFit (Youth),Training,Youth,Spring,Midwest,5/19/2024,55.36,41.34,0.37,48.78,6Y,Green,Knit,Academy Sports,Store_58
+AD-CSL-M-218,Adidas,Adidas Weekender (Men's),Casual,Men's,Summer,South,7/2/2024,88.92,56.73,0.29,93.79,11,Brown,Suede,DSW,Store_69
+AD-BSK-W-219,Adidas,Adidas Rise Elite (Women's),Basketball,Women's,Winter,Midwest,2/16/2024,118.89,86.8,0.4,136.95,7.5,Multicolor,Leather,Academy Sports,Store_19
+SK-HIK-W-220,Skechers,Skechers Peak Walker (Women's),Hiking,Women's,Summer,Northeast,8/24/2024,74.43,53.1,0.31,85.27,10,Brown,Gore-Tex,Amazon,Store_13
+PU-CSL-W-221,Puma,Puma Daily Comfort (Women's),Casual,Women's,Spring,West Coast,4/11/2024,110.83,54.49,0.28,93.54,6.5,White,Suede,Foot Locker,Store_09
+RB-BSK-M-222,Reebok,Reebok Court Dominator (Men's),Basketball,Men's,Winter,West Coast,1/16/2024,120.84,66.11,0.28,101.88,11,Gray,Mesh,Dick's Sporting Goods,Store_64
+SK-HIK-U-223,Skechers,Skechers Trail Blazer (Unisex),Hiking,Unisex,Spring,South,5/31/2024,97.92,72.94,0.32,110.96,10,Multicolor,Gore-Tex,Amazon,Store_83
+BR-CSL-U-224,Brooks,Brooks City Stroll (Unisex),Casual,Unisex,Winter,South,2/4/2025,70.52,47.68,0.32,72.16,11,Tan,Leather,Foot Locker,Store_49
+CV-SND-U-225,Converse,Converse Beach Cruiser (Unisex),Sandals,Unisex,Winter,Midwest,2/19/2025,35.4,32.68,0.21,33.85,10,Black,Leather,Amazon,Store_04
+CV-TRN-W-226,Converse,Converse Gym Pro (Women's),Training,Women's,Spring,Northeast,4/22/2024,109.4,55.03,0.32,91.47,10,Navy,Synthetic,Foot Locker,Store_98
+NB-CSL-W-227,New Balance,New Balance Daily Comfort (Women's),Casual,Women's,Spring,Southwest,4/6/2024,99.63,52.12,0.35,94.83,8.5,Blue,Canvas,Nike Store,Store_73
+NB-LFS-M-228,New Balance,New Balance Retro Classic (Men's),Lifestyle,Men's,Summer,Northeast,6/18/2024,119.3,64.72,0.27,106.97,8,Navy,Leather,Kohl's,Store_01
+RB-RUN-M-229,Reebok,Reebok Pace Setter (Men's),Running,Men's,Summer,South,7/10/2024,113.88,78.16,0.31,116.86,12,Gray,Mesh,Academy Sports,Store_10
+RB-CSL-W-230,Reebok,Reebok City Stroll (Women's),Casual,Women's,Winter,West Coast,12/6/2024,72.84,43.2,0.24,65.93,7,Brown,Suede,Academy Sports,Store_29
+NB-CSL-M-231,New Balance,New Balance Weekender (Men's),Casual,Men's,Spring,Southwest,4/23/2024,72.25,45.03,0.25,74.29,9,Multicolor,Canvas,Academy Sports,Store_79
+AD-TRN-Y-232,Adidas,Adidas Gym Pro (Youth),Training,Youth,Spring,Midwest,5/15/2024,59.78,40.39,0.36,52.38,6Y,White,Knit,Kohl's,Store_02
+NK-RUN-U-233,Nike,Nike CloudRun X (Unisex),Running,Unisex,Summer,West Coast,6/28/2024,160.65,69.12,0.29,137.34,9,Green,Mesh,Kohl's,Store_49
+PU-CSL-U-234,Puma,Puma Street Classic (Unisex),Casual,Unisex,Winter,Northeast,2/7/2024,43.83,34.31,0.34,49.94,8,Red,Canvas,Zappos,Store_14
+AD-SND-U-235,Adidas,Adidas Arch Support Plus (Unisex),Sandals,Unisex,Winter,Northeast,2/21/2024,29.45,21.95,0.4,27.91,9,Gray,Synthetic,Nike Store,Store_07
+VN-HIK-Y-236,Vans,Vans Summit Grip (Youth),Hiking,Youth,Winter,Midwest,1/28/2024,63.17,66.04,0.26,57.69,6.5Y,White,Leather,Kohl's,Store_20
+CV-LFS-W-237,Converse,Converse Retro Classic (Women's),Lifestyle,Women's,Spring,Northeast,3/8/2025,61.24,32.62,0.29,51.85,8,Navy,Leather,DSW,Store_61
+SK-BSK-U-238,Skechers,Skechers Air Slam (Unisex),Basketball,Unisex,Spring,South,5/14/2024,109.52,69.7,0.24,103.44,7,Green,Synthetic,Kohl's,Store_06
+NB-BSK-M-239,New Balance,New Balance Court Vision (Men's),Basketball,Men's,Winter,Midwest,2/23/2025,134.83,74.92,0.38,112.69,9.5,Green,Mesh,Foot Locker,Store_50
+CV-TRN-U-240,Converse,Converse Cross Trainer X (Unisex),Training,Unisex,Winter,Midwest,1/22/2025,57.72,49.96,0.31,62.17,6,Green,Knit,Nike Store,Store_16
+PU-CSL-M-241,Puma,Puma Street Classic (Men's),Casual,Men's,Winter,West Coast,1/7/2025,83.22,54.91,0.23,83.47,9,Green,Leather,Zappos,Store_41
+RB-HIK-U-242,Reebok,Reebok Alpine Step (Unisex),Hiking,Unisex,Summer,Northeast,7/31/2024,117.04,55.48,0.29,96.97,10,Multicolor,Gore-Tex,Dick's Sporting Goods,Store_15
+AD-BSK-M-243,Adidas,Adidas Court Vision (Men's),Basketball,Men's,Fall,Midwest,9/5/2024,127.52,78.04,0.33,127.63,10,Blue,Synthetic,Dick's Sporting Goods,Store_84
+CV-BOT-M-244,Converse,Converse Urban Chelsea (Men's),Boots,Men's,Winter,West Coast,1/11/2024,154.31,70.64,0.3,132.81,11.5,Navy,Leather,Zappos,Store_48
+AD-TRN-W-245,Adidas,Adidas Flex Force (Women's),Training,Women's,Fall,Midwest,11/26/2024,65.02,35.57,0.32,64.98,8,Brown,Synthetic,Dick's Sporting Goods,Store_78
+AS-SND-M-246,ASICS,ASICS Beach Cruiser (Men's),Sandals,Men's,Winter,Southwest,2/3/2025,32.86,34.43,0.36,35.67,12,White,Leather,Dick's Sporting Goods,Store_18
+PU-RUN-W-247,Puma,Puma FlexRun 2.0 (Women's),Running,Women's,Winter,Northeast,2/25/2025,121.92,64.46,0.28,110.63,7.5,Black,Knit,Zappos,Store_48
+PU-SND-U-248,Puma,Puma Arch Support Plus (Unisex),Sandals,Unisex,Spring,Southwest,3/24/2024,53.11,34.1,0.26,60.12,10,Gray,Leather,Academy Sports,Store_45
+NK-BOT-M-249,Nike,Nike Classic Lace-Up (Men's),Boots,Men's,Fall,South,11/29/2024,173.06,75.44,0.28,152.61,9.5,Navy,Leather,Amazon,Store_35
+NK-LFS-W-250,Nike,Nike City Stepper (Women's),Lifestyle,Women's,Winter,South,12/29/2024,87.97,53.71,0.34,89.85,8,Black,Leather,Zappos,Store_92
+SK-TRN-U-251,Skechers,Skechers Flex Force (Unisex),Training,Unisex,Fall,Midwest,9/18/2024,116.49,71.98,0.34,110.13,9,Tan,Knit,DSW,Store_01
+CV-HIK-Y-252,Converse,Converse Peak Walker (Youth),Hiking,Youth,Spring,Northeast,5/13/2024,93.54,80.81,0.31,101.71,5.5Y,White,Synthetic,Academy Sports,Store_36
+VN-TRN-M-253,Vans,Vans Iron Sole (Men's),Training,Men's,Fall,Southwest,9/11/2024,103.86,71.9,0.23,104.52,9,Blue,Knit,Foot Locker,Store_84
+NK-TRN-Y-254,Nike,Nike Flex Force (Youth),Training,Youth,Summer,South,6/2/2024,84.76,65.82,0.4,92.43,7Y,Tan,Knit,Academy Sports,Store_65
+AD-LFS-W-255,Adidas,Adidas Vintage Wave (Women's),Lifestyle,Women's,Summer,Midwest,6/30/2024,73.97,36.93,0.38,62.79,8.5,Tan,Leather,DSW,Store_29
+RB-HIK-Y-256,Reebok,Reebok Trail Blazer (Youth),Hiking,Youth,Fall,West Coast,9/13/2024,74.4,53.99,0.31,74.19,4Y,Brown,Leather,Kohl's,Store_25
+NB-CSL-W-257,New Balance,New Balance Weekender (Women's),Casual,Women's,Spring,Midwest,4/2/2024,77.8,50.04,0.31,84.99,7,Multicolor,Synthetic,Academy Sports,Store_92
+NK-RUN-U-258,Nike,Nike Speed Boost Elite (Unisex),Running,Unisex,Winter,Midwest,2/6/2025,147.17,81.52,0.29,135.72,12,Gray,Synthetic,Nike Store,Store_63
+BR-BOT-U-259,Brooks,Brooks All-Weather Boot (Unisex),Boots,Unisex,Summer,West Coast,6/13/2024,105.83,98.71,0.32,124.28,7,Black,Synthetic,Academy Sports,Store_02
+PU-TRN-Y-260,Puma,Puma Gym Pro (Youth),Training,Youth,Winter,Midwest,2/25/2025,36.99,33.83,0.35,35.48,5.5Y,White,Synthetic,Nike Store,Store_09
+VN-SND-U-261,Vans,Vans Summer Stride (Unisex),Sandals,Unisex,Winter,South,2/19/2025,21.76,23.68,0.23,24.22,12,Brown,Leather,Amazon,Store_22
+NK-CSL-M-262,Nike,Nike City Stroll (Men's),Casual,Men's,Winter,Midwest,1/25/2024,73.79,45.83,0.37,66.77,10,Black,Synthetic,Foot Locker,Store_77
+BR-LFS-U-263,Brooks,Brooks City Stepper (Unisex),Lifestyle,Unisex,Winter,Northeast,12/21/2024,84.59,55.43,0.25,95.33,11,Red,Knit,Nike Store,Store_27
+VN-HIK-W-264,Vans,Vans Trail Blazer (Women's),Hiking,Women's,Winter,West Coast,2/5/2025,67.69,53.31,0.23,71.46,6.5,Tan,Gore-Tex,Zappos,Store_15
+VN-TRN-Y-265,Vans,Vans PowerFit (Youth),Training,Youth,Fall,West Coast,9/3/2024,67.42,45.22,0.2,56.87,7Y,Gray,Mesh,Amazon,Store_89
+CV-LFS-W-266,Converse,Converse City Stepper (Women's),Lifestyle,Women's,Spring,Northeast,5/31/2024,75.63,38.57,0.21,64.45,8,White,Canvas,Amazon,Store_59
+SK-SND-Y-267,Skechers,Skechers Coastal Drift (Youth),Sandals,Youth,Winter,West Coast,12/5/2024,31.66,29.53,0.25,26.31,3.5Y,White,Rubber,Foot Locker,Store_18
+SK-BSK-Y-268,Skechers,Skechers Hoop Legend (Youth),Basketball,Youth,Spring,Midwest,3/3/2025,80.04,66.3,0.32,73.43,6.5Y,White,Synthetic,Kohl's,Store_35
+NB-BSK-W-269,New Balance,New Balance Hoop Legend (Women's),Basketball,Women's,Fall,Northeast,11/8/2024,125.4,65.92,0.29,113.66,9.5,White,Synthetic,Kohl's,Store_24
+NB-LFS-U-270,New Balance,New Balance Modern Icon (Unisex),Lifestyle,Unisex,Summer,Northeast,6/9/2024,56.84,28.49,0.36,50.52,6,Brown,Canvas,Zappos,Store_84
+CV-TRN-Y-271,Converse,Converse Train Hard (Youth),Training,Youth,Summer,Southwest,6/26/2024,70.34,58.55,0.28,60.86,6.5Y,Multicolor,Mesh,Amazon,Store_62
+CV-RUN-M-272,Converse,Converse Pace Setter (Men's),Running,Men's,Fall,South,9/8/2024,80.08,56.28,0.24,77.18,9,Brown,Knit,DSW,Store_97
+VN-BOT-U-273,Vans,Vans All-Weather Boot (Unisex),Boots,Unisex,Spring,South,3/14/2025,117.95,81.4,0.24,104.78,12,Brown,Suede,Kohl's,Store_12
+NK-BSK-U-274,Nike,Nike Court Dominator (Unisex),Basketball,Unisex,Fall,West Coast,11/12/2024,185.82,82.16,0.4,170.13,6,Tan,Mesh,DSW,Store_78
+AS-SND-Y-275,ASICS,ASICS Beach Cruiser (Youth),Sandals,Youth,Summer,Northeast,8/19/2024,24.49,16.74,0.35,25.08,7Y,Brown,Leather,Academy Sports,Store_92
+SK-SND-M-276,Skechers,Skechers Beach Cruiser (Men's),Sandals,Men's,Fall,Northeast,11/8/2024,24.48,18.7,0.22,26.33,11,Brown,Rubber,DSW,Store_33
+PU-SND-M-277,Puma,Puma Sun Slide (Men's),Sandals,Men's,Fall,West Coast,10/28/2024,55.21,36.95,0.24,52.77,11.5,Multicolor,Rubber,Kohl's,Store_85
+NK-BOT-U-278,Nike,Nike Heritage Work Boot (Unisex),Boots,Unisex,Summer,Southwest,7/17/2024,138.99,92.05,0.36,118.18,11,Multicolor,Leather,Nike Store,Store_14
+BR-TRN-Y-279,Brooks,Brooks PowerFit (Youth),Training,Youth,Fall,West Coast,11/4/2024,88.48,60,0.35,79.74,4.5Y,Red,Synthetic,Nike Store,Store_53
+RB-TRN-W-280,Reebok,Reebok Train Hard (Women's),Training,Women's,Fall,South,11/28/2024,117.96,71.01,0.24,108.65,8.5,Red,Knit,Nike Store,Store_91
+AD-SND-U-281,Adidas,Adidas Comfort Float (Unisex),Sandals,Unisex,Winter,Southwest,2/17/2025,14.44,14.31,0.27,16.61,11,Green,Synthetic,Zappos,Store_55
+NK-TRN-Y-282,Nike,Nike PowerFit (Youth),Training,Youth,Winter,South,1/20/2025,69.08,53.65,0.33,64.08,3.5Y,Red,Mesh,Zappos,Store_27
+VN-TRN-U-283,Vans,Vans Train Hard (Unisex),Training,Unisex,Summer,South,7/17/2024,89.57,48.66,0.3,74.19,11,Red,Knit,Foot Locker,Store_49
+NK-RUN-Y-284,Nike,Nike Pace Setter (Youth),Running,Youth,Spring,South,4/9/2024,68.76,54.77,0.3,74.81,6Y,Brown,Mesh,Amazon,Store_93
+NB-BSK-U-285,New Balance,New Balance Bounce Pro (Unisex),Basketball,Unisex,Fall,Northeast,10/26/2024,206.4,95.3,0.24,172.45,8,Red,Mesh,Nike Store,Store_21
+NK-CSL-Y-286,Nike,Nike Street Classic (Youth),Casual,Youth,Winter,Southwest,2/5/2025,63.53,47.48,0.35,60.93,7Y,Multicolor,Suede,Academy Sports,Store_10
+VN-CSL-U-287,Vans,Vans Chill Step (Unisex),Casual,Unisex,Winter,Southwest,12/5/2024,49.2,33.95,0.25,43.6,8,Green,Canvas,Amazon,Store_28
+VN-LFS-M-288,Vans,Vans Vintage Wave (Men's),Lifestyle,Men's,Winter,Northeast,12/15/2024,91.12,63.43,0.25,102.16,9.5,Blue,Knit,Amazon,Store_06
+SK-HIK-M-289,Skechers,Skechers Terrain Master (Men's),Hiking,Men's,Spring,Southwest,5/31/2024,174.19,92.91,0.23,145.06,11.5,Tan,Gore-Tex,Kohl's,Store_06
+NB-RUN-M-290,New Balance,New Balance CloudRun X (Men's),Running,Men's,Fall,South,10/2/2024,142.91,85.24,0.36,141.35,11,Navy,Synthetic,DSW,Store_27
+AD-CSL-M-291,Adidas,Adidas City Stroll (Men's),Casual,Men's,Spring,West Coast,4/1/2024,93.2,50.59,0.34,99.76,8.5,Blue,Canvas,DSW,Store_07
+SK-BOT-U-292,Skechers,Skechers Storm Shield (Unisex),Boots,Unisex,Winter,West Coast,12/10/2024,102.11,55.93,0.2,116.91,8,Green,Suede,Foot Locker,Store_50
+CV-RUN-M-293,Converse,Converse Pace Setter (Men's),Running,Men's,Winter,Midwest,1/26/2025,106.31,90.82,0.25,123.41,10,White,Knit,DSW,Store_37
+NB-TRN-W-294,New Balance,New Balance Train Hard (Women's),Training,Women's,Winter,West Coast,2/11/2025,104,66.69,0.33,121.76,7,Red,Knit,Zappos,Store_87
+VN-CSL-M-295,Vans,Vans Street Classic (Men's),Casual,Men's,Spring,Northeast,4/17/2024,79.2,48.94,0.32,78.99,12,Multicolor,Synthetic,DSW,Store_40
+VN-CSL-W-296,Vans,Vans Urban Walker (Women's),Casual,Women's,Winter,South,12/9/2024,84.68,50.79,0.31,70.86,7.5,Multicolor,Suede,DSW,Store_24
+VN-LFS-M-297,Vans,Vans Vintage Wave (Men's),Lifestyle,Men's,Fall,Midwest,10/24/2024,70.65,47.49,0.24,64.67,8.5,White,Suede,Amazon,Store_93
+AD-HIK-M-298,Adidas,Adidas Terrain Master (Men's),Hiking,Men's,Fall,South,10/26/2024,124.95,55.62,0.34,103.72,10.5,Brown,Synthetic,Zappos,Store_89
+NB-RUN-Y-299,New Balance,New Balance Speed Boost Elite (Youth),Running,Youth,Winter,South,1/10/2025,69.68,56.9,0.31,61.3,6Y,Green,Knit,Nike Store,Store_87
+AS-BSK-W-300,ASICS,ASICS Court Dominator (Women's),Basketball,Women's,Winter,Southwest,1/10/2025,122.32,97.84,0.25,142.75,10,Red,Leather,Amazon,Store_34
+VN-RUN-U-301,Vans,Vans Speed Boost Elite (Unisex),Running,Unisex,Winter,Southwest,1/31/2025,72.72,46.47,0.25,68.08,8,Black,Synthetic,Kohl's,Store_84
+SK-CSL-U-302,Skechers,Skechers Chill Step (Unisex),Casual,Unisex,Spring,Southwest,5/2/2024,74.49,52.53,0.31,81.74,8,White,Synthetic,Foot Locker,Store_85
+VN-CSL-U-303,Vans,Vans Urban Walker (Unisex),Casual,Unisex,Winter,South,1/21/2024,35.83,29.88,0.26,36.31,11,Multicolor,Leather,Kohl's,Store_46
+NK-TRN-Y-304,Nike,Nike Iron Sole (Youth),Training,Youth,Winter,West Coast,12/26/2024,105.94,70.74,0.37,94.21,3.5Y,Brown,Mesh,Academy Sports,Store_14
+CV-CSL-U-305,Converse,Converse Daily Comfort (Unisex),Casual,Unisex,Spring,West Coast,4/24/2024,72.4,40.59,0.24,70.28,10,Multicolor,Canvas,Zappos,Store_49
+AS-RUN-W-306,ASICS,ASICS Speed Boost Elite (Women's),Running,Women's,Spring,West Coast,3/17/2024,85.87,48.65,0.29,96.08,10,Navy,Mesh,Zappos,Store_28
+PU-BOT-Y-307,Puma,Puma Tough Terrain (Youth),Boots,Youth,Spring,Northeast,3/2/2025,80.22,75.53,0.25,75.03,5Y,Brown,Suede,Nike Store,Store_83
+NB-RUN-W-308,New Balance,New Balance Speed Boost Elite (Women's),Running,Women's,Fall,Northeast,10/15/2024,164.51,74.34,0.36,142.57,10,Red,Mesh,Dick's Sporting Goods,Store_77
+AD-TRN-U-309,Adidas,Adidas Iron Sole (Unisex),Training,Unisex,Spring,Southwest,3/14/2024,121.19,63.78,0.37,110.77,7,Brown,Mesh,Dick's Sporting Goods,Store_77
+SK-CSL-Y-310,Skechers,Skechers Chill Step (Youth),Casual,Youth,Spring,West Coast,3/8/2024,35.72,25.91,0.23,34.46,5Y,Multicolor,Canvas,Dick's Sporting Goods,Store_50
+BR-CSL-M-311,Brooks,Brooks Weekender (Men's),Casual,Men's,Fall,South,9/3/2024,61.16,45.74,0.38,71.91,12,Multicolor,Canvas,DSW,Store_12
+BR-BOT-Y-312,Brooks,Brooks Storm Shield (Youth),Boots,Youth,Summer,Northeast,7/14/2024,86.98,71.48,0.36,75,5Y,Tan,Suede,Kohl's,Store_99
+CV-BSK-U-313,Converse,Converse Air Slam (Unisex),Basketball,Unisex,Fall,South,11/2/2024,147.76,97.24,0.25,132.83,12,Brown,Leather,DSW,Store_37
+NK-BSK-M-314,Nike,Nike Rise Elite (Men's),Basketball,Men's,Winter,West Coast,2/24/2024,106.85,51.75,0.37,91.61,10.5,Navy,Mesh,Dick's Sporting Goods,Store_47
+BR-SND-Y-315,Brooks,Brooks Beach Cruiser (Youth),Sandals,Youth,Fall,West Coast,10/13/2024,29.61,27.32,0.29,30.29,7Y,Green,Synthetic,Nike Store,Store_48
+BR-CSL-M-316,Brooks,Brooks Weekender (Men's),Casual,Men's,Winter,South,2/14/2025,56.38,41.82,0.35,61.99,9.5,Gray,Canvas,Dick's Sporting Goods,Store_44
+NK-BSK-W-317,Nike,Nike Court Vision (Women's),Basketball,Women's,Summer,West Coast,7/8/2024,120.81,47.04,0.29,99.49,6.5,Green,Leather,Zappos,Store_29
+CV-HIK-M-318,Converse,Converse Alpine Step (Men's),Hiking,Men's,Winter,South,2/15/2025,91.89,73.91,0.22,88.45,8,Brown,Synthetic,Amazon,Store_85
+PU-CSL-M-319,Puma,Puma Urban Walker (Men's),Casual,Men's,Summer,Midwest,6/29/2024,58.64,46.11,0.28,68.53,8.5,Black,Leather,Zappos,Store_52
+AD-BSK-Y-320,Adidas,Adidas Court Vision (Youth),Basketball,Youth,Spring,Southwest,4/9/2024,75.03,70.65,0.32,82.02,5.5Y,Blue,Synthetic,Amazon,Store_78
+VN-BSK-M-321,Vans,Vans Air Slam (Men's),Basketball,Men's,Winter,Southwest,2/20/2025,123.68,91.98,0.23,124.99,12,Blue,Leather,Zappos,Store_69
+AS-TRN-Y-322,ASICS,ASICS Flex Force (Youth),Training,Youth,Spring,West Coast,5/12/2024,58.74,34.7,0.33,53.38,3.5Y,Brown,Knit,Kohl's,Store_15
+PU-SND-U-323,Puma,Puma Comfort Float (Unisex),Sandals,Unisex,Spring,Midwest,5/27/2024,24.59,16.23,0.31,28,11,Tan,Rubber,Zappos,Store_32
+NB-LFS-Y-324,New Balance,New Balance Heritage Runner (Youth),Lifestyle,Youth,Winter,Midwest,1/12/2025,39.85,35.99,0.34,43.01,4.5Y,Multicolor,Suede,Amazon,Store_64
+PU-TRN-Y-325,Puma,Puma Cross Trainer X (Youth),Training,Youth,Spring,South,3/14/2025,68.63,53.66,0.23,63.57,7Y,White,Mesh,Foot Locker,Store_98
+AS-HIK-U-326,ASICS,ASICS Ridge Runner (Unisex),Hiking,Unisex,Fall,South,9/26/2024,157.22,87.96,0.31,151.77,7,Red,Synthetic,Nike Store,Store_07
+BR-CSL-U-327,Brooks,Brooks City Stroll (Unisex),Casual,Unisex,Winter,Northeast,12/11/2024,50.7,29.59,0.33,47.09,8,Tan,Synthetic,Foot Locker,Store_02
+SK-CSL-Y-328,Skechers,Skechers Daily Comfort (Youth),Casual,Youth,Summer,South,8/5/2024,37.28,29.58,0.3,31.97,6Y,Brown,Suede,Nike Store,Store_64
+SK-LFS-W-329,Skechers,Skechers Heritage Runner (Women's),Lifestyle,Women's,Fall,Southwest,10/11/2024,78.34,45.29,0.25,65.02,6.5,Multicolor,Leather,Zappos,Store_31
+NB-LFS-M-330,New Balance,New Balance Modern Icon (Men's),Lifestyle,Men's,Summer,South,6/2/2024,48.9,38.04,0.36,55.15,12,Brown,Leather,Academy Sports,Store_63
+NB-RUN-W-331,New Balance,New Balance FlexRun 2.0 (Women's),Running,Women's,Summer,Midwest,7/3/2024,93.52,69.94,0.37,109.08,8.5,White,Knit,Zappos,Store_47
+AD-SND-W-332,Adidas,Adidas Comfort Float (Women's),Sandals,Women's,Winter,Southwest,12/10/2024,27.58,26.25,0.37,31.38,8,Tan,Rubber,Academy Sports,Store_42
+CV-HIK-U-333,Converse,Converse Summit Grip (Unisex),Hiking,Unisex,Winter,South,2/10/2024,60.61,56.1,0.23,63.28,11,Blue,Synthetic,Dick's Sporting Goods,Store_10
+SK-BOT-Y-334,Skechers,Skechers Urban Chelsea (Youth),Boots,Youth,Spring,West Coast,4/4/2024,97.39,105.23,0.22,103.27,7Y,Multicolor,Synthetic,Dick's Sporting Goods,Store_22
+AD-TRN-W-335,Adidas,Adidas Cross Trainer X (Women's),Training,Women's,Winter,West Coast,1/29/2025,77.28,47.88,0.37,81.6,9.5,White,Mesh,Foot Locker,Store_04
+NB-BSK-U-336,New Balance,New Balance Hoop Legend (Unisex),Basketball,Unisex,Spring,Midwest,3/5/2024,79.64,50.27,0.36,72.7,8,Navy,Mesh,Kohl's,Store_81
+RB-LFS-U-337,Reebok,Reebok Street Edge (Unisex),Lifestyle,Unisex,Fall,Southwest,11/1/2024,75.95,46.26,0.32,75.13,7,Tan,Knit,Nike Store,Store_76
+VN-HIK-Y-338,Vans,Vans Ridge Runner (Youth),Hiking,Youth,Summer,West Coast,7/30/2024,82.06,60.99,0.24,71.25,7Y,Navy,Leather,Zappos,Store_47
+NB-SND-Y-339,New Balance,New Balance Comfort Float (Youth),Sandals,Youth,Winter,West Coast,1/5/2024,34.48,32.38,0.35,30.12,7Y,Black,Synthetic,Kohl's,Store_39
+VN-SND-W-340,Vans,Vans Comfort Float (Women's),Sandals,Women's,Winter,West Coast,1/12/2025,28.73,29.5,0.31,32.67,7.5,Green,Leather,Nike Store,Store_92
+PU-HIK-Y-341,Puma,Puma Terrain Master (Youth),Hiking,Youth,Spring,Southwest,5/28/2024,72.21,53.52,0.28,65.1,4Y,Green,Leather,Nike Store,Store_18
+AS-TRN-Y-342,ASICS,ASICS Gym Pro (Youth),Training,Youth,Spring,Northeast,5/24/2024,58.23,42.77,0.34,62.2,3.5Y,Black,Knit,Nike Store,Store_14
+NB-RUN-U-343,New Balance,New Balance Ultra Stride (Unisex),Running,Unisex,Summer,South,8/25/2024,129.03,77.73,0.24,114.42,12,Green,Knit,Kohl's,Store_48
+NB-RUN-Y-344,New Balance,New Balance Air Runner Pro (Youth),Running,Youth,Winter,West Coast,2/22/2025,88.74,59.75,0.24,79.63,4.5Y,Tan,Knit,Amazon,Store_33
+BR-LFS-W-345,Brooks,Brooks Heritage Runner (Women's),Lifestyle,Women's,Summer,Northeast,7/18/2024,107.62,55.26,0.29,99.39,10,Brown,Canvas,Amazon,Store_61
+NK-BSK-Y-346,Nike,Nike Rise Elite (Youth),Basketball,Youth,Spring,West Coast,4/21/2024,127,103.32,0.31,148.44,6Y,Red,Leather,Foot Locker,Store_86
+SK-BSK-U-347,Skechers,Skechers Court Dominator (Unisex),Basketball,Unisex,Fall,South,11/1/2024,76.49,51.76,0.31,73.91,12,Black,Mesh,Kohl's,Store_89
+CV-SND-M-348,Converse,Converse Summer Stride (Men's),Sandals,Men's,Fall,Northeast,9/6/2024,29.81,19.58,0.32,26.38,12,Gray,Synthetic,DSW,Store_17
+AS-TRN-M-349,ASICS,ASICS PowerFit (Men's),Training,Men's,Summer,West Coast,8/12/2024,106.83,54.36,0.32,100.81,8,Gray,Synthetic,Kohl's,Store_91
+VN-SND-Y-350,Vans,Vans Summer Stride (Youth),Sandals,Youth,Spring,West Coast,3/20/2024,33.58,24.79,0.31,32.99,4.5Y,Multicolor,Synthetic,DSW,Store_68
+VN-BOT-W-351,Vans,Vans Classic Lace-Up (Women's),Boots,Women's,Winter,Northeast,2/2/2024,191.57,92.11,0.27,183.51,7.5,Blue,Synthetic,Academy Sports,Store_93
+AS-CSL-Y-352,ASICS,ASICS Weekender (Youth),Casual,Youth,Spring,Midwest,3/3/2025,56.67,55.76,0.27,63.7,4Y,Blue,Canvas,DSW,Store_06
+PU-BSK-M-353,Puma,Puma Rise Elite (Men's),Basketball,Men's,Summer,Southwest,7/6/2024,100.84,55.91,0.32,84.68,11.5,Green,Mesh,Zappos,Store_07
+AS-BSK-U-354,ASICS,ASICS Air Slam (Unisex),Basketball,Unisex,Winter,Northeast,1/30/2024,127.66,93.89,0.28,145.72,9,Tan,Mesh,Academy Sports,Store_91
+SK-BSK-W-355,Skechers,Skechers Court Dominator (Women's),Basketball,Women's,Spring,Southwest,4/8/2024,104.23,75.15,0.23,113.76,7.5,White,Mesh,Dick's Sporting Goods,Store_25
+VN-BOT-M-356,Vans,Vans Urban Chelsea (Men's),Boots,Men's,Winter,Southwest,2/9/2025,96.07,60.09,0.25,105.74,11,Brown,Synthetic,DSW,Store_22
+CV-LFS-Y-357,Converse,Converse City Stepper (Youth),Lifestyle,Youth,Summer,Midwest,6/14/2024,59.28,52.34,0.27,52.31,6.5Y,Blue,Suede,Dick's Sporting Goods,Store_93
+SK-SND-U-358,Skechers,Skechers Arch Support Plus (Unisex),Sandals,Unisex,Winter,West Coast,1/9/2024,27.93,26.42,0.34,29.06,6,Black,Synthetic,Zappos,Store_77
+PU-TRN-Y-359,Puma,Puma Flex Force (Youth),Training,Youth,Summer,Northeast,8/23/2024,62.72,46.23,0.24,58.87,4.5Y,Red,Knit,DSW,Store_05
+PU-HIK-Y-360,Puma,Puma Ridge Runner (Youth),Hiking,Youth,Summer,Northeast,6/15/2024,131.97,87.65,0.24,119.41,5Y,Green,Gore-Tex,DSW,Store_93
+CV-BSK-Y-361,Converse,Converse Rise Elite (Youth),Basketball,Youth,Summer,Northeast,6/20/2024,90.99,63.92,0.3,77.7,4Y,Multicolor,Synthetic,Foot Locker,Store_99
+PU-RUN-U-362,Puma,Puma Ultra Stride (Unisex),Running,Unisex,Fall,Northeast,9/14/2024,170.16,77.77,0.24,139.59,8,Tan,Mesh,Nike Store,Store_42
+AS-BSK-W-363,ASICS,ASICS Air Slam (Women's),Basketball,Women's,Summer,West Coast,8/31/2024,133.24,78,0.25,151.16,7,Green,Leather,Academy Sports,Store_11
+VN-BOT-W-364,Vans,Vans Tough Terrain (Women's),Boots,Women's,Fall,South,10/19/2024,98.7,61.14,0.28,104.88,9.5,Tan,Leather,Dick's Sporting Goods,Store_84
+AD-HIK-U-365,Adidas,Adidas Alpine Step (Unisex),Hiking,Unisex,Summer,Midwest,7/6/2024,98.97,65.42,0.3,115.22,6,Multicolor,Leather,Dick's Sporting Goods,Store_55
+SK-CSL-Y-366,Skechers,Skechers Weekender (Youth),Casual,Youth,Spring,Southwest,4/12/2024,48.35,46.67,0.22,54.83,7Y,Multicolor,Leather,Foot Locker,Store_30
+NK-TRN-W-367,Nike,Nike Cross Trainer X (Women's),Training,Women's,Summer,Midwest,8/29/2024,56.51,32.91,0.31,61.06,6.5,Blue,Knit,Zappos,Store_58
+VN-HIK-U-368,Vans,Vans Alpine Step (Unisex),Hiking,Unisex,Fall,Southwest,10/25/2024,125.67,93.3,0.27,144.08,11,Gray,Gore-Tex,Foot Locker,Store_49
+PU-HIK-M-369,Puma,Puma Alpine Step (Men's),Hiking,Men's,Spring,West Coast,3/12/2025,153.31,93.64,0.27,159.99,11,Black,Leather,Zappos,Store_85
+BR-TRN-U-370,Brooks,Brooks Flex Force (Unisex),Training,Unisex,Spring,Southwest,4/11/2024,83.48,52.03,0.31,97.3,9,White,Synthetic,DSW,Store_24
+PU-HIK-Y-371,Puma,Puma Peak Walker (Youth),Hiking,Youth,Fall,West Coast,11/16/2024,89.26,63.12,0.36,93.75,6Y,Gray,Leather,Academy Sports,Store_46
+NK-HIK-U-372,Nike,Nike Ridge Runner (Unisex),Hiking,Unisex,Winter,Northeast,12/2/2024,98.79,54.86,0.38,89.74,7,Red,Leather,Academy Sports,Store_51
+PU-BOT-W-373,Puma,Puma Heritage Work Boot (Women's),Boots,Women's,Spring,Southwest,3/8/2024,94.43,61.85,0.24,82.4,8.5,Green,Suede,Kohl's,Store_70
+NB-HIK-W-374,New Balance,New Balance Summit Grip (Women's),Hiking,Women's,Fall,West Coast,9/29/2024,215.94,95.43,0.26,183.71,8.5,Multicolor,Leather,DSW,Store_72
+NK-SND-U-375,Nike,Nike Summer Stride (Unisex),Sandals,Unisex,Winter,West Coast,2/2/2025,28.58,18.51,0.3,23.53,12,Brown,Synthetic,Zappos,Store_20
+CV-HIK-W-376,Converse,Converse Summit Grip (Women's),Hiking,Women's,Winter,Southwest,12/18/2024,114.19,86.99,0.22,111.57,6,Navy,Gore-Tex,Academy Sports,Store_11
+RB-CSL-U-377,Reebok,Reebok Weekender (Unisex),Casual,Unisex,Summer,West Coast,7/28/2024,84.33,49.52,0.22,84.09,7,Gray,Leather,Amazon,Store_05
+PU-TRN-M-378,Puma,Puma Iron Sole (Men's),Training,Men's,Summer,South,8/6/2024,76.1,48.19,0.23,76.81,10.5,Multicolor,Synthetic,Kohl's,Store_32
+RB-BOT-M-379,Reebok,Reebok All-Weather Boot (Men's),Boots,Men's,Fall,Southwest,10/2/2024,134.26,74.51,0.32,128.98,8,Brown,Suede,Amazon,Store_67
+NK-TRN-Y-380,Nike,Nike Iron Sole (Youth),Training,Youth,Spring,West Coast,5/30/2024,80.16,56.53,0.29,88.81,7Y,Red,Synthetic,Nike Store,Store_55
+AS-BSK-M-381,ASICS,ASICS Court Vision (Men's),Basketball,Men's,Summer,South,8/18/2024,90.9,43.57,0.3,76.94,11,Tan,Leather,Dick's Sporting Goods,Store_42
+AS-BSK-Y-382,ASICS,ASICS Rise Elite (Youth),Basketball,Youth,Winter,Midwest,12/27/2024,77.8,70.31,0.29,78.42,4Y,Gray,Mesh,DSW,Store_15
+VN-CSL-U-383,Vans,Vans Weekender (Unisex),Casual,Unisex,Spring,Southwest,3/20/2025,37.44,27.21,0.3,38.84,8,Black,Leather,Nike Store,Store_21
+AS-HIK-W-384,ASICS,ASICS Summit Grip (Women's),Hiking,Women's,Fall,Northeast,9/11/2024,194.64,90.77,0.32,165.43,8,Navy,Leather,Foot Locker,Store_59
+PU-TRN-U-385,Puma,Puma Iron Sole (Unisex),Training,Unisex,Fall,West Coast,10/7/2024,72.49,43.12,0.31,78.21,10,Brown,Mesh,Foot Locker,Store_32
+NB-CSL-M-386,New Balance,New Balance Street Classic (Men's),Casual,Men's,Winter,Midwest,2/14/2024,35.23,23.77,0.3,32.07,13,Gray,Canvas,Zappos,Store_43
+CV-CSL-U-387,Converse,Converse Daily Comfort (Unisex),Casual,Unisex,Summer,Southwest,7/7/2024,96.82,54.31,0.3,83.32,12,Black,Canvas,Zappos,Store_42
+AD-HIK-U-388,Adidas,Adidas Trail Blazer (Unisex),Hiking,Unisex,Spring,South,4/17/2024,154.38,82.79,0.35,137.84,10,Red,Synthetic,Dick's Sporting Goods,Store_68
+VN-BSK-U-389,Vans,Vans Rise Elite (Unisex),Basketball,Unisex,Fall,Southwest,9/26/2024,137.16,78.23,0.28,127.32,10,Red,Synthetic,Academy Sports,Store_34
+AS-LFS-U-390,ASICS,ASICS City Stepper (Unisex),Lifestyle,Unisex,Winter,South,1/13/2024,68.33,46.6,0.35,73.73,7,Navy,Suede,Foot Locker,Store_16
+CV-BOT-U-391,Converse,Converse Urban Chelsea (Unisex),Boots,Unisex,Fall,Northeast,11/23/2024,109.12,61.48,0.23,113.21,12,Blue,Synthetic,Amazon,Store_02
+VN-SND-M-392,Vans,Vans Coastal Drift (Men's),Sandals,Men's,Spring,Northeast,4/9/2024,46.3,21.93,0.24,38.94,11,Blue,Leather,Foot Locker,Store_23
+NK-CSL-U-393,Nike,Nike City Stroll (Unisex),Casual,Unisex,Winter,South,1/29/2024,81.61,52.06,0.32,84.42,9,Brown,Suede,Dick's Sporting Goods,Store_96
+VN-RUN-W-394,Vans,Vans CloudRun X (Women's),Running,Women's,Spring,Southwest,3/6/2025,73.47,39.78,0.33,63.24,6.5,Blue,Knit,Nike Store,Store_36
+CV-BOT-W-395,Converse,Converse All-Weather Boot (Women's),Boots,Women's,Summer,Southwest,7/30/2024,65.71,53.82,0.31,56.8,8.5,Red,Synthetic,Foot Locker,Store_35
+SK-TRN-Y-396,Skechers,Skechers Cross Trainer X (Youth),Training,Youth,Fall,South,9/16/2024,32.51,33,0.27,35.32,5Y,Blue,Mesh,DSW,Store_57
+AS-HIK-Y-397,ASICS,ASICS Trail Blazer (Youth),Hiking,Youth,Winter,South,1/19/2024,59.67,70.97,0.34,70.07,4.5Y,Tan,Gore-Tex,Amazon,Store_93
+NK-BSK-Y-398,Nike,Nike Court Dominator (Youth),Basketball,Youth,Winter,West Coast,1/23/2025,76.21,61.67,0.4,82.73,5.5Y,White,Mesh,Foot Locker,Store_74
+SK-SND-U-399,Skechers,Skechers Summer Stride (Unisex),Sandals,Unisex,Fall,Northeast,11/14/2024,39.29,27.43,0.21,37.3,8,Gray,Rubber,DSW,Store_02
+SK-CSL-Y-400,Skechers,Skechers Urban Walker (Youth),Casual,Youth,Summer,Southwest,8/15/2024,24.93,23.83,0.2,28.7,5.5Y,Gray,Canvas,Academy Sports,Store_70
+BR-RUN-M-401,Brooks,Brooks FlexRun 2.0 (Men's),Running,Men's,Summer,West Coast,7/1/2024,115.52,55.81,0.36,105.19,13,Gray,Synthetic,Kohl's,Store_79
+VN-BSK-U-402,Vans,Vans Hoop Legend (Unisex),Basketball,Unisex,Summer,Southwest,6/7/2024,124.69,85.12,0.29,133.26,9,White,Mesh,DSW,Store_59
+PU-CSL-Y-403,Puma,Puma Weekender (Youth),Casual,Youth,Winter,Midwest,1/16/2024,28.86,24.35,0.24,24.82,6Y,Gray,Suede,Kohl's,Store_63
+SK-SND-W-404,Skechers,Skechers Sun Slide (Women's),Sandals,Women's,Fall,Southwest,11/28/2024,21.06,15.7,0.24,19.71,6.5,Green,Synthetic,Academy Sports,Store_72
+PU-TRN-W-405,Puma,Puma Iron Sole (Women's),Training,Women's,Fall,West Coast,10/17/2024,117.92,63.49,0.3,107.67,7.5,White,Synthetic,Dick's Sporting Goods,Store_56
+AD-LFS-M-406,Adidas,Adidas City Stepper (Men's),Lifestyle,Men's,Spring,Southwest,3/31/2024,76.98,40.32,0.32,69.75,12,Brown,Suede,DSW,Store_57
+CV-BOT-Y-407,Converse,Converse Storm Shield (Youth),Boots,Youth,Winter,West Coast,1/21/2025,112.74,90.62,0.2,124.55,5Y,Black,Leather,Nike Store,Store_75
+VN-HIK-U-408,Vans,Vans Ridge Runner (Unisex),Hiking,Unisex,Fall,Southwest,10/18/2024,178.74,87.72,0.29,149.38,7,Brown,Leather,Academy Sports,Store_39
+RB-BSK-M-409,Reebok,Reebok Court Vision (Men's),Basketball,Men's,Fall,Southwest,10/8/2024,197.36,102.98,0.22,162.82,10,Green,Leather,Foot Locker,Store_48
+AD-HIK-M-410,Adidas,Adidas Peak Walker (Men's),Hiking,Men's,Summer,South,7/14/2024,101.81,69.76,0.29,112.94,10.5,Multicolor,Synthetic,Dick's Sporting Goods,Store_52
+VN-BOT-Y-411,Vans,Vans Heritage Work Boot (Youth),Boots,Youth,Winter,West Coast,2/6/2024,158.89,91.44,0.22,145.31,4.5Y,Red,Synthetic,Nike Store,Store_02
+NB-BSK-W-412,New Balance,New Balance Bounce Pro (Women's),Basketball,Women's,Summer,West Coast,8/5/2024,134.1,76.78,0.3,145.96,7,Multicolor,Synthetic,Kohl's,Store_66
+CV-RUN-U-413,Converse,Converse CloudRun X (Unisex),Running,Unisex,Winter,South,1/20/2024,88.37,70.38,0.28,85.95,9,Tan,Knit,Academy Sports,Store_05
+AD-CSL-Y-414,Adidas,Adidas Chill Step (Youth),Casual,Youth,Winter,West Coast,1/14/2025,63.41,45.89,0.35,60.42,5Y,White,Canvas,Kohl's,Store_81
+CV-HIK-M-415,Converse,Converse Ridge Runner (Men's),Hiking,Men's,Winter,Midwest,1/10/2025,76.97,64.58,0.24,80.26,11.5,Black,Synthetic,Kohl's,Store_74
+NB-RUN-Y-416,New Balance,New Balance Ultra Stride (Youth),Running,Youth,Winter,Southwest,1/27/2024,75.22,75.41,0.28,87.46,7Y,Black,Synthetic,Nike Store,Store_74
+AS-BSK-W-417,ASICS,ASICS Court Dominator (Women's),Basketball,Women's,Spring,Southwest,3/15/2025,114.98,58.19,0.34,96.89,7,Red,Synthetic,Zappos,Store_36
+NB-LFS-Y-418,New Balance,New Balance Street Edge (Youth),Lifestyle,Youth,Winter,South,2/13/2024,90.83,66.69,0.32,78.31,4.5Y,Navy,Knit,Foot Locker,Store_44
+BR-BOT-W-419,Brooks,Brooks Storm Shield (Women's),Boots,Women's,Spring,West Coast,5/15/2024,146.6,98.62,0.27,146.96,8.5,Gray,Leather,Foot Locker,Store_83
+SK-LFS-W-420,Skechers,Skechers Vintage Wave (Women's),Lifestyle,Women's,Spring,West Coast,3/21/2025,79.14,45.39,0.24,79.83,8,Green,Knit,Nike Store,Store_68
+RB-RUN-M-421,Reebok,Reebok CloudRun X (Men's),Running,Men's,Spring,Southwest,5/18/2024,84.87,53.22,0.23,85.32,13,Blue,Knit,Zappos,Store_43
+PU-TRN-Y-422,Puma,Puma PowerFit (Youth),Training,Youth,Summer,South,7/29/2024,38.31,35.91,0.23,41.14,3.5Y,Tan,Mesh,DSW,Store_02
+SK-HIK-W-423,Skechers,Skechers Trail Blazer (Women's),Hiking,Women's,Fall,Northeast,11/22/2024,97.17,54.09,0.33,90.5,6,Multicolor,Leather,Amazon,Store_77
+BR-CSL-M-424,Brooks,Brooks Daily Comfort (Men's),Casual,Men's,Winter,South,1/28/2025,54.2,37.37,0.38,55.9,8.5,Red,Synthetic,Kohl's,Store_36
+NB-BSK-Y-425,New Balance,New Balance Bounce Pro (Youth),Basketball,Youth,Spring,Northeast,4/1/2024,102.7,69.76,0.31,95.46,3.5Y,Green,Synthetic,Zappos,Store_34
+NB-LFS-M-426,New Balance,New Balance City Stepper (Men's),Lifestyle,Men's,Winter,South,1/1/2025,60.02,38.36,0.24,53.63,13,Green,Leather,DSW,Store_57
+AS-RUN-U-427,ASICS,ASICS CloudRun X (Unisex),Running,Unisex,Spring,South,3/18/2024,134.2,77.9,0.37,128.95,11,Black,Mesh,Dick's Sporting Goods,Store_35
+AS-LFS-U-428,ASICS,ASICS Vintage Wave (Unisex),Lifestyle,Unisex,Winter,West Coast,2/22/2025,126.76,59.19,0.26,104.17,6,White,Leather,Dick's Sporting Goods,Store_89
+RB-HIK-U-429,Reebok,Reebok Alpine Step (Unisex),Hiking,Unisex,Spring,Northeast,3/6/2025,117.93,70.98,0.32,128.84,10,White,Synthetic,Academy Sports,Store_11
+NK-BOT-W-430,Nike,Nike Storm Shield (Women's),Boots,Women's,Fall,Midwest,11/19/2024,125,77.34,0.31,145.45,8.5,Green,Leather,Kohl's,Store_11
+CV-TRN-U-431,Converse,Converse Cross Trainer X (Unisex),Training,Unisex,Spring,West Coast,3/3/2025,98.51,64.47,0.32,100.98,8,Tan,Knit,Kohl's,Store_69
+RB-RUN-U-432,Reebok,Reebok Speed Boost Elite (Unisex),Running,Unisex,Fall,Northeast,10/23/2024,94.48,51.28,0.23,91.65,11,Tan,Knit,Nike Store,Store_95
+NK-LFS-M-433,Nike,Nike Vintage Wave (Men's),Lifestyle,Men's,Winter,South,2/24/2025,100.47,59.75,0.34,94.01,9,Gray,Canvas,Foot Locker,Store_40
+AD-BSK-U-434,Adidas,Adidas Court Vision (Unisex),Basketball,Unisex,Summer,Southwest,6/21/2024,169.08,93.13,0.4,174.32,12,Navy,Leather,Amazon,Store_55
+CV-CSL-Y-435,Converse,Converse Street Classic (Youth),Casual,Youth,Spring,South,5/20/2024,31.27,27.08,0.25,29.65,6Y,Multicolor,Leather,DSW,Store_16
+AS-TRN-M-436,ASICS,ASICS Cross Trainer X (Men's),Training,Men's,Winter,South,2/11/2024,48.44,32.25,0.27,44.39,9,Multicolor,Synthetic,Foot Locker,Store_63
+SK-BOT-U-437,Skechers,Skechers Heritage Work Boot (Unisex),Boots,Unisex,Spring,South,5/2/2024,113.6,110.85,0.29,123.94,8,Gray,Synthetic,Kohl's,Store_53
+AS-BSK-Y-438,ASICS,ASICS Bounce Pro (Youth),Basketball,Youth,Fall,Midwest,9/28/2024,162.9,103.54,0.33,134.06,5Y,Black,Mesh,Amazon,Store_16
+VN-TRN-U-439,Vans,Vans PowerFit (Unisex),Training,Unisex,Spring,South,3/8/2025,112.79,70.74,0.26,102.73,6,Black,Mesh,Nike Store,Store_88
+NK-RUN-Y-440,Nike,Nike Speed Boost Elite (Youth),Running,Youth,Winter,Midwest,2/23/2024,105.82,80.2,0.41,92.77,6Y,Green,Knit,Kohl's,Store_06
+AS-BSK-M-441,ASICS,ASICS Rise Elite (Men's),Basketball,Men's,Spring,South,4/11/2024,117.54,89.07,0.37,131.96,13,Brown,Mesh,Academy Sports,Store_54
+PU-BSK-W-442,Puma,Puma Hoop Legend (Women's),Basketball,Women's,Fall,West Coast,9/5/2024,85.02,45.42,0.28,79.05,6.5,Green,Leather,Kohl's,Store_75
+NB-BOT-Y-443,New Balance,New Balance Tough Terrain (Youth),Boots,Youth,Summer,South,6/20/2024,40.77,56.52,0.34,45.28,6Y,Navy,Synthetic,Zappos,Store_26
+AS-LFS-U-444,ASICS,ASICS Street Edge (Unisex),Lifestyle,Unisex,Fall,South,11/9/2024,96.24,64.22,0.32,102.93,10,Navy,Suede,Nike Store,Store_82
+BR-LFS-W-445,Brooks,Brooks Modern Icon (Women's),Lifestyle,Women's,Spring,Southwest,3/22/2025,76.57,37.87,0.3,64.89,6,Brown,Suede,Dick's Sporting Goods,Store_95
+CV-CSL-M-446,Converse,Converse Street Classic (Men's),Casual,Men's,Fall,West Coast,9/28/2024,51.11,36.2,0.3,57.67,12,Black,Synthetic,Foot Locker,Store_55
+AS-TRN-M-447,ASICS,ASICS Cross Trainer X (Men's),Training,Men's,Spring,Southwest,5/2/2024,95.57,57.91,0.25,99.26,9,Green,Mesh,Academy Sports,Store_38
+AS-RUN-U-448,ASICS,ASICS Speed Boost Elite (Unisex),Running,Unisex,Summer,West Coast,8/25/2024,143.96,78.12,0.24,145.06,12,Green,Mesh,Academy Sports,Store_81
+RB-RUN-Y-449,Reebok,Reebok Ultra Stride (Youth),Running,Youth,Spring,West Coast,3/26/2025,88.73,57.13,0.34,74.77,5Y,Multicolor,Synthetic,DSW,Store_80
+RB-RUN-M-450,Reebok,Reebok Ultra Stride (Men's),Running,Men's,Spring,West Coast,3/30/2024,149.62,74.95,0.31,131.68,8,Brown,Synthetic,Academy Sports,Store_47
+NB-SND-W-451,New Balance,New Balance Sun Slide (Women's),Sandals,Women's,Summer,Southwest,6/29/2024,59.41,35.55,0.31,68.28,7.5,Brown,Synthetic,Amazon,Store_42
+RB-SND-U-452,Reebok,Reebok Comfort Float (Unisex),Sandals,Unisex,Fall,West Coast,11/13/2024,40.54,22.84,0.31,33.45,9,Tan,Rubber,Zappos,Store_58
+AD-TRN-U-453,Adidas,Adidas Cross Trainer X (Unisex),Training,Unisex,Spring,Northeast,3/25/2024,100.43,43.04,0.36,85.56,8,Green,Mesh,DSW,Store_14
+VN-RUN-Y-454,Vans,Vans CloudRun X (Youth),Running,Youth,Summer,West Coast,8/15/2024,80.33,80.05,0.2,93.61,7Y,Tan,Mesh,Academy Sports,Store_54
+PU-SND-U-455,Puma,Puma Summer Stride (Unisex),Sandals,Unisex,Summer,Southwest,6/4/2024,56.13,27.61,0.35,49.15,10,Blue,Leather,Kohl's,Store_59
+PU-LFS-Y-456,Puma,Puma Retro Classic (Youth),Lifestyle,Youth,Fall,Midwest,11/12/2024,86.27,64.97,0.32,71.29,5.5Y,Gray,Suede,Kohl's,Store_22
+NB-CSL-W-457,New Balance,New Balance Street Classic (Women's),Casual,Women's,Spring,Northeast,4/4/2024,67.69,29.39,0.34,55.86,9.5,Blue,Leather,Zappos,Store_48
+NB-SND-U-458,New Balance,New Balance Beach Cruiser (Unisex),Sandals,Unisex,Fall,Southwest,9/12/2024,42.28,32.44,0.37,46.58,6,Tan,Leather,Foot Locker,Store_52
+VN-SND-Y-459,Vans,Vans Summer Stride (Youth),Sandals,Youth,Winter,West Coast,12/18/2024,14.41,16.7,0.26,13.09,4.5Y,Multicolor,Synthetic,Kohl's,Store_44
+AD-HIK-M-460,Adidas,Adidas Ridge Runner (Men's),Hiking,Men's,Winter,West Coast,1/29/2024,141.55,78.41,0.29,124.27,10.5,Navy,Synthetic,DSW,Store_42
+SK-TRN-M-461,Skechers,Skechers Train Hard (Men's),Training,Men's,Fall,Northeast,9/8/2024,90.76,44.71,0.28,76.52,8.5,Brown,Knit,Dick's Sporting Goods,Store_25
+RB-BOT-W-462,Reebok,Reebok Urban Chelsea (Women's),Boots,Women's,Summer,West Coast,6/28/2024,82.5,68.64,0.28,88.73,6,Green,Suede,Zappos,Store_45
+AS-BOT-U-463,ASICS,ASICS Heritage Work Boot (Unisex),Boots,Unisex,Fall,Midwest,11/2/2024,113.63,53.77,0.27,97.04,9,Green,Synthetic,Nike Store,Store_76
+RB-BSK-U-464,Reebok,Reebok Court Dominator (Unisex),Basketball,Unisex,Fall,Northeast,10/11/2024,120.44,71.11,0.29,130.38,8,Green,Mesh,Dick's Sporting Goods,Store_23
+BR-HIK-U-465,Brooks,Brooks Terrain Master (Unisex),Hiking,Unisex,Winter,Northeast,1/14/2024,139.39,87.56,0.27,128.23,9,Multicolor,Synthetic,Kohl's,Store_29
+AS-BSK-Y-466,ASICS,ASICS Hoop Legend (Youth),Basketball,Youth,Winter,West Coast,1/26/2025,78.91,59.46,0.38,70.09,5Y,Brown,Mesh,Foot Locker,Store_16
+CV-LFS-U-467,Converse,Converse Vintage Wave (Unisex),Lifestyle,Unisex,Spring,Midwest,3/24/2024,79.3,51.27,0.22,71.67,8,Brown,Canvas,Foot Locker,Store_34
+RB-CSL-M-468,Reebok,Reebok Daily Comfort (Men's),Casual,Men's,Fall,Midwest,9/28/2024,67.97,45,0.23,62.8,8,Green,Suede,Zappos,Store_38
+AD-CSL-Y-469,Adidas,Adidas City Stroll (Youth),Casual,Youth,Fall,Midwest,10/23/2024,38.42,34.66,0.28,40.27,6Y,Red,Suede,DSW,Store_69
+AS-BOT-Y-470,ASICS,ASICS All-Weather Boot (Youth),Boots,Youth,Fall,South,11/10/2024,146.9,94.21,0.37,131.91,5Y,Navy,Leather,Amazon,Store_72
+AD-BOT-U-471,Adidas,Adidas All-Weather Boot (Unisex),Boots,Unisex,Winter,Northeast,12/19/2024,188.63,72.29,0.37,176.1,9,Gray,Leather,Academy Sports,Store_40
+RB-CSL-Y-472,Reebok,Reebok City Stroll (Youth),Casual,Youth,Spring,Northeast,4/26/2024,45.77,33.07,0.25,45.44,4.5Y,White,Leather,Nike Store,Store_89
+AD-BSK-M-473,Adidas,Adidas Bounce Pro (Men's),Basketball,Men's,Fall,West Coast,9/19/2024,142.22,79.37,0.33,164.22,8.5,Black,Leather,Foot Locker,Store_85
+SK-RUN-M-474,Skechers,Skechers Pace Setter (Men's),Running,Men's,Summer,Northeast,6/28/2024,62.89,39.67,0.22,66.02,9.5,Navy,Synthetic,Nike Store,Store_86
+CV-SND-Y-475,Converse,Converse Comfort Float (Youth),Sandals,Youth,Winter,South,1/25/2025,9.26,14.34,0.23,9.7,4Y,Multicolor,Rubber,DSW,Store_75
+VN-RUN-M-476,Vans,Vans Pace Setter (Men's),Running,Men's,Winter,South,12/10/2024,119.24,92.59,0.22,120.39,13,Brown,Knit,Nike Store,Store_57
+PU-TRN-U-477,Puma,Puma PowerFit (Unisex),Training,Unisex,Winter,Northeast,1/25/2025,66.89,46.45,0.26,75.97,6,White,Synthetic,Nike Store,Store_64
+AS-BSK-U-478,ASICS,ASICS Bounce Pro (Unisex),Basketball,Unisex,Fall,Midwest,10/10/2024,129.2,67.66,0.38,110.71,8,Multicolor,Mesh,Kohl's,Store_29
+AS-SND-W-479,ASICS,ASICS Coastal Drift (Women's),Sandals,Women's,Fall,Northeast,9/24/2024,42.83,29.81,0.25,42.91,6.5,Brown,Synthetic,Dick's Sporting Goods,Store_57
+CV-BSK-W-480,Converse,Converse Air Slam (Women's),Basketball,Women's,Spring,Northeast,4/29/2024,159.82,94.8,0.29,143.47,7.5,Navy,Synthetic,Dick's Sporting Goods,Store_16
+CV-HIK-U-481,Converse,Converse Peak Walker (Unisex),Hiking,Unisex,Winter,Midwest,1/28/2025,77.4,70.73,0.21,82.74,9,Multicolor,Synthetic,Zappos,Store_19
+NB-RUN-M-482,New Balance,New Balance Air Runner Pro (Men's),Running,Men's,Fall,Northeast,11/5/2024,124.56,76.71,0.26,140.64,8,Brown,Synthetic,Nike Store,Store_49
+AD-LFS-U-483,Adidas,Adidas Street Edge (Unisex),Lifestyle,Unisex,Summer,South,6/24/2024,105.98,60.38,0.34,93.57,10,Brown,Knit,Zappos,Store_70
+BR-BSK-U-484,Brooks,Brooks Air Slam (Unisex),Basketball,Unisex,Spring,West Coast,3/31/2024,150.36,77.07,0.37,135.31,9,Green,Synthetic,Foot Locker,Store_05
+AS-BOT-W-485,ASICS,ASICS Storm Shield (Women's),Boots,Women's,Fall,Midwest,10/10/2024,201.62,93.92,0.32,172.9,6.5,Green,Suede,Kohl's,Store_85
+VN-RUN-U-486,Vans,Vans FlexRun 2.0 (Unisex),Running,Unisex,Spring,Midwest,5/25/2024,91.17,56.27,0.2,78.62,10,Multicolor,Knit,Academy Sports,Store_99
+RB-RUN-Y-487,Reebok,Reebok Air Runner Pro (Youth),Running,Youth,Winter,West Coast,1/29/2024,97.73,75.69,0.25,91.4,6Y,Green,Knit,Dick's Sporting Goods,Store_45
+AD-HIK-M-488,Adidas,Adidas Summit Grip (Men's),Hiking,Men's,Winter,Midwest,12/2/2024,127.61,91.17,0.34,134.52,10.5,Black,Gore-Tex,Foot Locker,Store_59
+AS-RUN-Y-489,ASICS,ASICS Pace Setter (Youth),Running,Youth,Winter,West Coast,12/19/2024,109.26,76.48,0.29,96.43,4Y,Green,Knit,Kohl's,Store_13
+RB-CSL-Y-490,Reebok,Reebok Weekender (Youth),Casual,Youth,Spring,Midwest,5/15/2024,25.11,23.71,0.35,26.9,4Y,Navy,Synthetic,Amazon,Store_37
+AD-BSK-Y-491,Adidas,Adidas Court Dominator (Youth),Basketball,Youth,Summer,Midwest,6/26/2024,136.1,92.13,0.35,118.6,7Y,Multicolor,Mesh,Dick's Sporting Goods,Store_27
+BR-SND-W-492,Brooks,Brooks Arch Support Plus (Women's),Sandals,Women's,Winter,West Coast,1/25/2025,37.17,27.14,0.37,35.71,10,Red,Synthetic,Kohl's,Store_86
+NB-LFS-W-493,New Balance,New Balance Street Edge (Women's),Lifestyle,Women's,Summer,West Coast,8/24/2024,61.46,33.91,0.26,63.95,6,Tan,Knit,Amazon,Store_47
+BR-BOT-Y-494,Brooks,Brooks Storm Shield (Youth),Boots,Youth,Spring,Northeast,3/23/2024,64.26,65.18,0.33,72.04,5.5Y,Navy,Suede,Zappos,Store_83
+PU-RUN-W-495,Puma,Puma FlexRun 2.0 (Women's),Running,Women's,Winter,Midwest,1/19/2024,76.23,49.51,0.26,66.74,9,Brown,Synthetic,Dick's Sporting Goods,Store_83
+SK-CSL-M-496,Skechers,Skechers Street Classic (Men's),Casual,Men's,Summer,West Coast,7/27/2024,96.32,54.28,0.29,96.62,10.5,Black,Canvas,Zappos,Store_09
+NB-TRN-M-497,New Balance,New Balance Flex Force (Men's),Training,Men's,Winter,Southwest,2/16/2024,63.02,41.52,0.26,64.85,12,Tan,Mesh,Zappos,Store_64
+CV-BOT-W-498,Converse,Converse Heritage Work Boot (Women's),Boots,Women's,Summer,West Coast,8/13/2024,88.12,75.36,0.3,84.13,7,Gray,Leather,Amazon,Store_36
+AD-SND-U-499,Adidas,Adidas Coastal Drift (Unisex),Sandals,Unisex,Summer,West Coast,8/31/2024,78.71,31.18,0.37,65.17,12,Navy,Leather,Nike Store,Store_47
+CV-RUN-M-500,Converse,Converse Ultra Stride (Men's),Running,Men's,Spring,South,3/3/2024,82.14,68.49,0.23,96.3,10,Tan,Knit,Academy Sports,Store_88
